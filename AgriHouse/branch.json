@@ -1,264 +1,165 @@
-{
-  "BangladeshKrishiUnnayanBankBranches": [
-    {
-      "branchName": "Dhaka",
-      "address": "Bangladesh Krishi Unnayan Bank, Head Office, 83-85 Motijheel Commercial Area, Dhaka-1000",
-      "phone": "+880-2-223354842"
-    },
-    {
-      "branchName": "Chattogram",
-      "address": "Bangladesh Krishi Unnayan Bank, Anderkilla, Chattogram",
-      "phone": "+880-31-610351"
-    },
-    {
-      "branchName": "Rajshahi",
-      "address": "Bangladesh Krishi Unnayan Bank, Sonadighi Mor, Rajshahi",
-      "phone": "+880-721-772522"
-    },
-    {
-      "branchName": "Khulna",
-      "address": "Bangladesh Krishi Unnayan Bank, 60 Khalishpur Housing Estate, Khulna",
-      "phone": "+880-41-761758"
-    },
-    {
-      "branchName": "Barishal",
-      "address": "Bangladesh Krishi Unnayan Bank, Barishal Sadar",
-      "phone": "+880-431-64722"
-    },
-    {
-      "branchName": "Sylhet",
-      "address": "Bangladesh Krishi Unnayan Bank, Naiorpul, Sylhet",
-      "phone": "+880-821-716429"
-    },
-    {
-      "branchName": "Mymensingh",
-      "address": "Bangladesh Krishi Unnayan Bank, Ganginarpar, Mymensingh",
-      "phone": "+880-91-64216"
-    },
-    {
-      "branchName": "Comilla",
-      "address": "Bangladesh Krishi Unnayan Bank, Kandirpar, Comilla",
-      "phone": "+880-81-63412"
-    },
-    {
-      "branchName": "Bogura",
-      "address": "Bangladesh Krishi Unnayan Bank, Satmatha, Bogura",
-      "phone": "+880-51-62044"
-    },
-    {
-      "branchName": "Jessore",
-      "address": "Bangladesh Krishi Unnayan Bank, Monihar, Jessore",
-      "phone": "+880-421-68795"
-    },
-    {
-      "branchName": "Narayanganj",
-      "address": "Bangladesh Krishi Unnayan Bank, Chashara, Narayanganj",
-      "phone": "+880-2-7644581"
-    },
-    {
-      "branchName": "Tangail",
-      "address": "Bangladesh Krishi Unnayan Bank, Court Road, Tangail",
-      "phone": "+880-921-63456"
-    },
-    {
-      "branchName": "Rangpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Shapla Chattar, Rangpur",
-      "phone": "+880-521-62155"
-    },
-    {
-      "branchName": "Pabna",
-      "address": "Bangladesh Krishi Unnayan Bank, Edward College Road, Pabna",
-      "phone": "+880-731-66011"
-    },
-    {
-      "branchName": "Gazipur",
-      "address": "Bangladesh Krishi Unnayan Bank, Joydebpur, Gazipur",
-      "phone": "+880-2-9262503"
-    },
-    {
-      "branchName": "Noakhali",
-      "address": "Bangladesh Krishi Unnayan Bank, Maijdee Court, Noakhali",
-      "phone": "+880-321-61432"
-    },
-    {
-      "branchName": "Kushtia",
-      "address": "Bangladesh Krishi Unnayan Bank, Hospital Road, Kushtia",
-      "phone": "+880-721-52523"
-    },
-    {
-      "branchName": "Faridpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Thana Road, Faridpur",
-      "phone": "+880-631-62352"
-    },
-    {
-      "branchName": "Barisal",
-      "address": "Bangladesh Krishi Unnayan Bank, Amtala, Barisal",
-      "phone": "+880-431-63252"
-    },
-    {
-      "branchName": "Jamalpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Bazar Road, Jamalpur",
-      "phone": "+880-981-61245"
-    },
-    {
-      "branchName": "Brahmanbaria",
-      "address": "Bangladesh Krishi Unnayan Bank, Brahmanbaria Sadar",
-      "phone": "+880-1-23456789"
-    },
-    {
-      "branchName": "Lakshmipur",
-      "address": "Bangladesh Krishi Unnayan Bank, Lakshmipur Sadar",
-      "phone": "+880-1-23456788"
-    },
-    {
-      "branchName": "Panchagarh",
-      "address": "Bangladesh Krishi Unnayan Bank, Panchagarh Sadar",
-      "phone": "+880-1-23456787"
-    },
-    {
-      "branchName": "Cox's Bazar",
-      "address": "Bangladesh Krishi Unnayan Bank, Cox's Bazar Sadar",
-      "phone": "+880-1-23456786"
-    },
-    {
-      "branchName": "Netrakona",
-      "address": "Bangladesh Krishi Unnayan Bank, Netrakona Sadar",
-      "phone": "+880-1-23456785"
-    },
-    {
-      "branchName": "Meherpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Meherpur Sadar",
-      "phone": "+880-1-23456784"
-    },
-    {
-      "branchName": "Sherpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Sherpur Sadar",
-      "phone": "+880-1-23456783"
-    },
-    {
-      "branchName": "Chandpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Chandpur Sadar",
-      "phone": "+880-1-23456782"
-    },
-    {
-      "branchName": "Jhalokati",
-      "address": "Bangladesh Krishi Unnayan Bank, Jhalokati Sadar",
-      "phone": "+880-1-23456781"
-    },
-    {
-      "branchName": "Bhola",
-      "address": "Bangladesh Krishi Unnayan Bank, Bhola Sadar",
-      "phone": "+880-1-23456780"
-    },
-    {
-      "branchName": "Chuadanga",
-      "address": "Bangladesh Krishi Unnayan Bank, Chuadanga Sadar",
-      "phone": "+880-1-23456779"
-    },
-    {
-      "branchName": "Cumilla",
-      "address": "Bangladesh Krishi Unnayan Bank, Cumilla Sadar",
-      "phone": "+880-1-23456778"
-    },
-    {
-      "branchName": "Feni",
-      "address": "Bangladesh Krishi Unnayan Bank, Feni Sadar",
-      "phone": "+880-1-23456777"
-    },
-    {
-      "branchName": "Gaibandha",
-      "address": "Bangladesh Krishi Unnayan Bank, Gaibandha Sadar",
-      "phone": "+880-1-23456776"
-    },
-    {
-      "branchName": "Gopalganj",
-      "address": "Bangladesh Krishi Unnayan Bank, Gopalganj Sadar",
-      "phone": "+880-1-23456775"
-    },
-    {
-      "branchName": "Jhalokati",
-      "address": "Bangladesh Krishi Unnayan Bank, Jhalokati Sadar",
-      "phone": "+880-1-23456774"
-    },
-    {
-      "branchName": "Jhenaidah",
-      "address": "Bangladesh Krishi Unnayan Bank, Jhenaidah Sadar",
-      "phone": "+880-1-23456773"
-    },
-    {
-      "branchName": "Joypurhat",
-      "address": "Bangladesh Krishi Unnayan Bank, Joypurhat Sadar",
-      "phone": "+880-1-23456772"
-    },
-    {
-      "branchName": "Khagrachari",
-      "address": "Bangladesh Krishi Unnayan Bank, Khagrachari Sadar",
-      "phone": "+880-1-23456771"
-    },
-    {
-      "branchName": "Kishoreganj",
-      "address": "Bangladesh Krishi Unnayan Bank, Kishoreganj Sadar",
-      "phone": "+880-1-23456770"
-    },
-    {
-      "branchName": "Kurigram",
-      "address": "Bangladesh Krishi Unnayan Bank, Kurigram Sadar",
-      "phone": "+880-1-23456769"
-    },
-    {
-      "branchName": "Madaripur",
-      "address": "Bangladesh Krishi Unnayan Bank, Madaripur Sadar",
-      "phone": "+880-1-23456768"
-    },
-    {
-      "branchName": "Manikganj",
-      "address": "Bangladesh Krishi Unnayan Bank, Manikganj Sadar",
-      "phone": "+880-1-23456767"
-    },
-    {
-      "branchName": "Meherpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Meherpur Sadar",
-      "phone": "+880-1-23456766"
-    },
-    {
-      "branchName": "Munshiganj",
-      "address": "Bangladesh Krishi Unnayan Bank, Munshiganj Sadar",
-      "phone": "+880-1-23456765"
-    },
-    {
-      "branchName": "Narsingdi",
-      "address": "Bangladesh Krishi Unnayan Bank, Narsingdi Sadar",
-      "phone": "+880-1-23456764"
-    },
-    {
-      "branchName": "Netrokona",
-      "address": "Bangladesh Krishi Unnayan Bank, Netrokona Sadar",
-      "phone": "+880-1-23456763"
-    },
-    {
-      "branchName": "Netrakona",
-      "address": "Bangladesh Krishi Unnayan Bank, Netrakona Sadar",
-      "phone": "+880-1-23456762"
-    },
-    {
-      "branchName": "Panchagarh",
-      "address": "Bangladesh Krishi Unnayan Bank, Panchagarh Sadar",
-      "phone": "+880-1-23456761"
-    },
-    {
-      "branchName": "Rangamati",
-      "address": "Bangladesh Krishi Unnayan Bank, Rangamati Sadar",
-      "phone": "+880-1-23456760"
-    },
-    {
-      "branchName": "Satkhira",
-      "address": "Bangladesh Krishi Unnayan Bank, Satkhira Sadar",
-      "phone": "+880-1-23456759"
-    },
-    {
-      "branchName": "Sherpur",
-      "address": "Bangladesh Krishi Unnayan Bank, Sherpur Sadar",
-      "phone": "+880-1-23456758"
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Bangladesh Krishi Unnayan Bank Branches',
+      theme: ThemeData(
+        primarySwatch: Colors.green,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
+      ),
+      home: CityListPage(),
+    );
+  }
+}
+
+class CityListPage extends StatefulWidget {
+  @override
+  _CityListPageState createState() => _CityListPageState();
+}
+
+class _CityListPageState extends State<CityListPage> {
+  Map<String, List<dynamic>> branchesByCity = {};
+  bool isLoading = true;
+
+  Future<void> loadBranchData() async {
+    final response = await http
+        .get(Uri.parse('https://ttoru140.github.io/AgriHouse/branch.json'));
+
+    if (response.statusCode == 200) {
+      final data = json.decode(response.body);
+      setState(() {
+        branchesByCity = data['RajshahiKrishiUnnayanBankBranches'];
+        isLoading = false;
+      });
+    } else {
+      throw Exception('Failed to load branch data');
     }
-  ]
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    loadBranchData();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('BKB Branch Cities'),
+        backgroundColor: Colors.green[700],
+      ),
+      body: isLoading
+          ? Center(child: CircularProgressIndicator())
+          : Container(
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                  colors: [Colors.green[100]!, Colors.green[400]!],
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                ),
+              ),
+              child: ListView.builder(
+                itemCount: branchesByCity.keys.length,
+                itemBuilder: (context, cityIndex) {
+                  String city = branchesByCity.keys.elementAt(cityIndex);
+                  List<dynamic> branches = branchesByCity[city]!;
+                  return ExpansionTile(
+                    title: Text(
+                      city,
+                      style: TextStyle(
+                          fontSize: 24,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.green[800]),
+                    ),
+                    children: branches.map<Widget>((branch) {
+                      return Card(
+                        margin: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
+                        elevation: 4,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(15),
+                        ),
+                        child: ListTile(
+                          title: Text(
+                            branch['branchName'],
+                            style: TextStyle(
+                                fontSize: 20,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.green[800]),
+                          ),
+                          trailing: Icon(Icons.arrow_forward, color: Colors.green[700]),
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) =>
+                                    BranchDetailPage(branch: branch),
+                              ),
+                            );
+                          },
+                        ),
+                      );
+                    }).toList(),
+                  );
+                },
+              ),
+            ),
+    );
+  }
+}
+
+class BranchDetailPage extends StatelessWidget {
+  final Map<String, dynamic> branch;
+
+  BranchDetailPage({required this.branch});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('${branch['branchName']} Branch Details'),
+        backgroundColor: Colors.green[700],
+      ),
+      body: Container(
+        padding: EdgeInsets.all(16.0),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [Colors.green[100]!, Colors.green[400]!],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              branch['branchName'],
+              style: TextStyle(
+                  fontSize: 28,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.green[800]),
+            ),
+            SizedBox(height: 20),
+            Text('Address:',
+                style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+            SizedBox(height: 8),
+            Text(branch['address'], style: TextStyle(fontSize: 18)),
+            SizedBox(height: 20),
+            Text('Phone:',
+                style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+            SizedBox(height: 8),
+            Text(branch['phone'], style: TextStyle(fontSize: 18)),
+          ],
+        ),
+      ),
+    );
+  }
 }
