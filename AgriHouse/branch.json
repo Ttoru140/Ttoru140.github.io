@@ -1,165 +1,113 @@
-import 'dart:convert';
-import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-
-void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Bangladesh Krishi Unnayan Bank Branches',
-      theme: ThemeData(
-        primarySwatch: Colors.green,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      home: CityListPage(),
-    );
-  }
-}
-
-class CityListPage extends StatefulWidget {
-  @override
-  _CityListPageState createState() => _CityListPageState();
-}
-
-class _CityListPageState extends State<CityListPage> {
-  Map<String, List<dynamic>> branchesByCity = {};
-  bool isLoading = true;
-
-  Future<void> loadBranchData() async {
-    final response = await http
-        .get(Uri.parse('https://ttoru140.github.io/AgriHouse/branch.json'));
-
-    if (response.statusCode == 200) {
-      final data = json.decode(response.body);
-      setState(() {
-        branchesByCity = data['RajshahiKrishiUnnayanBankBranches'];
-        isLoading = false;
-      });
-    } else {
-      throw Exception('Failed to load branch data');
-    }
-  }
-
-  @override
-  void initState() {
-    super.initState();
-    loadBranchData();
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('BKB Branch Cities'),
-        backgroundColor: Colors.green[700],
-      ),
-      body: isLoading
-          ? Center(child: CircularProgressIndicator())
-          : Container(
-              decoration: BoxDecoration(
-                gradient: LinearGradient(
-                  colors: [Colors.green[100]!, Colors.green[400]!],
-                  begin: Alignment.topLeft,
-                  end: Alignment.bottomRight,
-                ),
-              ),
-              child: ListView.builder(
-                itemCount: branchesByCity.keys.length,
-                itemBuilder: (context, cityIndex) {
-                  String city = branchesByCity.keys.elementAt(cityIndex);
-                  List<dynamic> branches = branchesByCity[city]!;
-                  return ExpansionTile(
-                    title: Text(
-                      city,
-                      style: TextStyle(
-                          fontSize: 24,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.green[800]),
-                    ),
-                    children: branches.map<Widget>((branch) {
-                      return Card(
-                        margin: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
-                        elevation: 4,
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(15),
-                        ),
-                        child: ListTile(
-                          title: Text(
-                            branch['branchName'],
-                            style: TextStyle(
-                                fontSize: 20,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.green[800]),
-                          ),
-                          trailing: Icon(Icons.arrow_forward, color: Colors.green[700]),
-                          onTap: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) =>
-                                    BranchDetailPage(branch: branch),
-                              ),
-                            );
-                          },
-                        ),
-                      );
-                    }).toList(),
-                  );
-                },
-              ),
-            ),
-    );
-  }
-}
-
-class BranchDetailPage extends StatelessWidget {
-  final Map<String, dynamic> branch;
-
-  BranchDetailPage({required this.branch});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('${branch['branchName']} Branch Details'),
-        backgroundColor: Colors.green[700],
-      ),
-      body: Container(
-        padding: EdgeInsets.all(16.0),
-        decoration: BoxDecoration(
-          gradient: LinearGradient(
-            colors: [Colors.green[100]!, Colors.green[400]!],
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-          ),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              branch['branchName'],
-              style: TextStyle(
-                  fontSize: 28,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.green[800]),
-            ),
-            SizedBox(height: 20),
-            Text('Address:',
-                style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
-            SizedBox(height: 8),
-            Text(branch['address'], style: TextStyle(fontSize: 18)),
-            SizedBox(height: 20),
-            Text('Phone:',
-                style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
-            SizedBox(height: 8),
-            Text(branch['phone'], style: TextStyle(fontSize: 18)),
-          ],
-        ),
-      ),
-    );
+{
+  "RajshahiKrishiUnnayanBankBranches": {
+    "Rajshahi": [
+      {
+        "branchName": "Rajshahi",
+        "address": "Bangladesh Krishi Unnayan Bank, Sonadighi Mor, Rajshahi",
+        "phone": "+880-721-772522"
+      },
+      {
+        "branchName": "Bagmara",
+        "address": "Bangladesh Krishi Unnayan Bank, Bagmara, Rajshahi",
+        "phone": "+880-721-123456"
+      },
+      {
+        "branchName": "Puthia",
+        "address": "Bangladesh Krishi Unnayan Bank, Puthia, Rajshahi",
+        "phone": "+880-721-234567"
+      },
+      {
+        "branchName": "Durgapur",
+        "address": "Bangladesh Krishi Unnayan Bank, Durgapur, Rajshahi",
+        "phone": "+880-721-345678"
+      },
+      {
+        "branchName": "Charghat",
+        "address": "Bangladesh Krishi Unnayan Bank, Charghat, Rajshahi",
+        "phone": "+880-721-456789"
+      },
+      {
+        "branchName": "Tanore",
+        "address": "Bangladesh Krishi Unnayan Bank, Tanore, Rajshahi",
+        "phone": "+880-721-567890"
+      },
+      {
+        "branchName": "Shahjadpur",
+        "address": "Bangladesh Krishi Unnayan Bank, Shahjadpur, Rajshahi",
+        "phone": "+880-721-678901"
+      },
+      {
+        "branchName": "Nawabganj",
+        "address": "Bangladesh Krishi Unnayan Bank, Nawabganj, Rajshahi",
+        "phone": "+880-721-789012"
+      },
+      {
+        "branchName": "Mohonpur",
+        "address": "Bangladesh Krishi Unnayan Bank, Mohonpur, Rajshahi",
+        "phone": "+880-721-890123"
+      },
+      {
+        "branchName": "Godagari",
+        "address": "Bangladesh Krishi Unnayan Bank, Godagari, Rajshahi",
+        "phone": "+880-721-901234"
+      },
+      {
+        "branchName": "Raninagar",
+        "address": "Bangladesh Krishi Unnayan Bank, Raninagar, Rajshahi",
+        "phone": "+880-721-012345"
+      }
+    ],
+    "Dhaka": [
+      {
+        "branchName": "Dhanmondi",
+        "address": "Bangladesh Krishi Unnayan Bank, Dhanmondi, Dhaka",
+        "phone": "+880-2-1234567"
+      },
+      {
+        "branchName": "Gulshan",
+        "address": "Bangladesh Krishi Unnayan Bank, Gulshan, Dhaka",
+        "phone": "+880-2-2345678"
+      },
+      {
+        "branchName": "Mirpur",
+        "address": "Bangladesh Krishi Unnayan Bank, Mirpur, Dhaka",
+        "phone": "+880-2-3456789"
+      },
+      {
+        "branchName": "Uttara",
+        "address": "Bangladesh Krishi Unnayan Bank, Uttara, Dhaka",
+        "phone": "+880-2-4567890"
+      },
+      {
+        "branchName": "Mohammadpur",
+        "address": "Bangladesh Krishi Unnayan Bank, Mohammadpur, Dhaka",
+        "phone": "+880-2-5678901"
+      },
+      {
+        "branchName": "Savar",
+        "address": "Bangladesh Krishi Unnayan Bank, Savar, Dhaka",
+        "phone": "+880-2-6789012"
+      },
+      {
+        "branchName": "Narayanganj",
+        "address": "Bangladesh Krishi Unnayan Bank, Narayanganj, Dhaka",
+        "phone": "+880-2-7890123"
+      },
+      {
+        "branchName": "Keraniganj",
+        "address": "Bangladesh Krishi Unnayan Bank, Keraniganj, Dhaka",
+        "phone": "+880-2-8901234"
+      },
+      {
+        "branchName": "Banasree",
+        "address": "Bangladesh Krishi Unnayan Bank, Banasree, Dhaka",
+        "phone": "+880-2-9012345"
+      },
+      {
+        "branchName": "Tongi",
+        "address": "Bangladesh Krishi Unnayan Bank, Tongi, Dhaka",
+        "phone": "+880-2-0123456"
+      }
+    ]
   }
 }
