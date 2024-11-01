@@ -1,0 +1,104 @@
+{
+  "BangladeshKrishiUnnayanBankBranches": [
+    {
+      "branchName": "Dhaka",
+      "address": "Bangladesh Krishi Unnayan Bank, Head Office, 83-85 Motijheel Commercial Area, Dhaka-1000",
+      "phone": "+880-2-223354842"
+    },
+    {
+      "branchName": "Chattogram",
+      "address": "Bangladesh Krishi Unnayan Bank, Anderkilla, Chattogram",
+      "phone": "+880-31-610351"
+    },
+    {
+      "branchName": "Rajshahi",
+      "address": "Bangladesh Krishi Unnayan Bank, Sonadighi Mor, Rajshahi",
+      "phone": "+880-721-772522"
+    },
+    {
+      "branchName": "Khulna",
+      "address": "Bangladesh Krishi Unnayan Bank, 60 Khalishpur Housing Estate, Khulna",
+      "phone": "+880-41-761758"
+    },
+    {
+      "branchName": "Barishal",
+      "address": "Bangladesh Krishi Unnayan Bank, Barishal Sadar",
+      "phone": "+880-431-64722"
+    },
+    {
+      "branchName": "Sylhet",
+      "address": "Bangladesh Krishi Unnayan Bank, Naiorpul, Sylhet",
+      "phone": "+880-821-716429"
+    },
+    {
+      "branchName": "Mymensingh",
+      "address": "Bangladesh Krishi Unnayan Bank, Ganginarpar, Mymensingh",
+      "phone": "+880-91-64216"
+    },
+    {
+      "branchName": "Comilla",
+      "address": "Bangladesh Krishi Unnayan Bank, Kandirpar, Comilla",
+      "phone": "+880-81-63412"
+    },
+    {
+      "branchName": "Bogura",
+      "address": "Bangladesh Krishi Unnayan Bank, Satmatha, Bogura",
+      "phone": "+880-51-62044"
+    },
+    {
+      "branchName": "Jessore",
+      "address": "Bangladesh Krishi Unnayan Bank, Monihar, Jessore",
+      "phone": "+880-421-68795"
+    },
+    {
+      "branchName": "Narayanganj",
+      "address": "Bangladesh Krishi Unnayan Bank, Chashara, Narayanganj",
+      "phone": "+880-2-7644581"
+    },
+    {
+      "branchName": "Tangail",
+      "address": "Bangladesh Krishi Unnayan Bank, Court Road, Tangail",
+      "phone": "+880-921-63456"
+    },
+    {
+      "branchName": "Rangpur",
+      "address": "Bangladesh Krishi Unnayan Bank, Shapla Chattar, Rangpur",
+      "phone": "+880-521-62155"
+    },
+    {
+      "branchName": "Pabna",
+      "address": "Bangladesh Krishi Unnayan Bank, Edward College Road, Pabna",
+      "phone": "+880-731-66011"
+    },
+    {
+      "branchName": "Gazipur",
+      "address": "Bangladesh Krishi Unnayan Bank, Joydebpur, Gazipur",
+      "phone": "+880-2-9262503"
+    },
+    {
+      "branchName": "Noakhali",
+      "address": "Bangladesh Krishi Unnayan Bank, Maijdee Court, Noakhali",
+      "phone": "+880-321-61432"
+    },
+    {
+      "branchName": "Kushtia",
+      "address": "Bangladesh Krishi Unnayan Bank, Hospital Road, Kushtia",
+      "phone": "+880-721-52523"
+    },
+    {
+      "branchName": "Faridpur",
+      "address": "Bangladesh Krishi Unnayan Bank, Thana Road, Faridpur",
+      "phone": "+880-631-62352"
+    },
+    {
+      "branchName": "Barisal",
+      "address": "Bangladesh Krishi Unnayan Bank, Amtala, Barisal",
+      "phone": "+880-431-63252"
+    },
+    {
+      "branchName": "Jamalpur",
+      "address": "Bangladesh Krishi Unnayan Bank, Bazar Road, Jamalpur",
+      "phone": "+880-981-61245"
+    }
+  ]
+}
