@@ -7,15 +7,75 @@
         "phone": "+880-2-223354842"
       },
       {
+    "branchName": "Motijheel Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Head Office, 83-85 Motijheel Commercial Area, Dhaka-1000",
+    "phone": "+880-2-223354842"
+  },
+  {
+    "branchName": "Gulshan Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, 45 Gulshan Avenue, Dhaka",
+    "phone": "+880-2-87654321"
+  },
+  {
+    "branchName": "Dhanmondi Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, 12 Dhanmondi Road, Dhaka",
+    "phone": "+880-2-23456789"
+  },
+  {
+    "branchName": "Uttara Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Plot 3, Sector 7, Uttara, Dhaka",
+    "phone": "+880-2-34567890"
+  },
+      {
         "branchName": "Narayanganj",
         "address": "Bangladesh Krishi Unnayan Bank, Chashara, Narayanganj",
         "phone": "+880-2-7644581"
       },
+       {
+    "branchName": "Narayanganj Main Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, 101 Central Road, Narayanganj",
+    "phone": "+880-2-76543210"
+  },
+  {
+    "branchName": "Fatullah Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Fatullah, Narayanganj",
+    "phone": "+880-2-76543211"
+  },
+  {
+    "branchName": "Rupganj Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Rupganj, Narayanganj",
+    "phone": "+880-2-76543212"
+  },
+  {
+    "branchName": "Siddhirganj Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Siddhirganj, Narayanganj",
+    "phone": "+880-2-76543213"
+  },
       {
         "branchName": "Gazipur",
         "address": "Bangladesh Krishi Unnayan Bank, Joydebpur, Gazipur",
         "phone": "+880-2-9262503"
       },
+       {
+    "branchName": "Gazipur Main Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, 123 Gazipur Main Road, Gazipur",
+    "phone": "+880-2-98765432"
+  },
+  {
+    "branchName": "Tongi Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Tongi Bazar, Gazipur",
+    "phone": "+880-2-98765433"
+  },
+  {
+    "branchName": "Kaliakair Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Kaliakair, Gazipur",
+    "phone": "+880-2-98765434"
+  },
+  {
+    "branchName": "Sreepur Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Sreepur, Gazipur",
+    "phone": "+880-2-98765435"
+  },
       {
         "branchName": "Tangail",
         "address": "Bangladesh Krishi Unnayan Bank, Court Road, Tangail",
@@ -49,6 +109,26 @@
         "phone": "+880-31-610351"
       },
       {
+    "branchName": "Chattogram Main Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, 456 Agrabad Commercial Area, Chattogram",
+    "phone": "+880-31-12345678"
+  },
+  {
+    "branchName": "Pahartali Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Pahartali, Chattogram",
+    "phone": "+880-31-87654321"
+  },
+  {
+    "branchName": "Kotwali Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Kotwali, Chattogram",
+    "phone": "+880-31-23456789"
+  },
+  {
+    "branchName": "Halishahar Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Halishahar, Chattogram",
+    "phone": "+880-31-34567890"
+  },
+      {
         "branchName": "Cox's Bazar",
         "address": "Bangladesh Krishi Unnayan Bank, Cox's Bazar Sadar",
         "phone": "+880-1-23456786"
@@ -60,6 +140,26 @@
         "address": "Bangladesh Krishi Unnayan Bank, Sonadighi Mor, Rajshahi",
         "phone": "+880-721-772522"
       },
+      {
+    "branchName": "Rajshahi Main Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, 78 Shiroil, Rajshahi",
+    "phone": "+880-721-123456"
+  },
+  {
+    "branchName": "Boalia Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Boalia, Rajshahi",
+    "phone": "+880-721-654321"
+  },
+  {
+    "branchName": "Bagmara Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Bagmara, Rajshahi",
+    "phone": "+880-721-987654"
+  },
+  {
+    "branchName": "Puthia Branch",
+    "address": "Bangladesh Krishi Unnayan Bank, Puthia, Rajshahi",
+    "phone": "+880-721-456789"
+  },
       {
         "branchName": "Bogura",
         "address": "Bangladesh Krishi Unnayan Bank, Satmatha, Bogura",
@@ -88,6 +188,46 @@
         "phone": "+880-41-761758"
       },
       {
+      "branchName": "Khulna Main Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, 45 Shibpur Road, Khulna",
+      "phone": "+880-41-123456"
+    },
+    {
+      "branchName": "Sonadanga Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Sonadanga, Khulna",
+      "phone": "+880-41-654321"
+    },
+    {
+      "branchName": "Batiaghata Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Batiaghata, Khulna",
+      "phone": "+880-41-987654"
+    },
+    {
+      "branchName": "Dighalia Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Dighalia, Khulna",
+      "phone": "+880-41-456789"
+    },
+    {
+      "branchName": "Jessore Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Jessore, Khulna",
+      "phone": "+880-42-123456"
+    },
+    {
+      "branchName": "Satkhira Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Satkhira, Khulna",
+      "phone": "+880-47-654321"
+    },
+    {
+      "branchName": "Narail Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Narail, Khulna",
+      "phone": "+880-45-987654"
+    },
+    {
+      "branchName": "Magura Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Magura, Khulna",
+      "phone": "+880-48-456789"
+    },
+      {
         "branchName": "Satkhira",
         "address": "Bangladesh Krishi Unnayan Bank, Satkhira Sadar",
         "phone": "+880-1-23456759"
@@ -99,6 +239,22 @@
         "address": "Bangladesh Krishi Unnayan Bank, Barishal Sadar",
         "phone": "+880-431-64722"
       },
+      {
+      "branchName": "Barishal Main Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, 12 C&B Road, Barishal",
+      "phone": "+880-43-123456"
+    },
+    {
+      "branchName": "Patuakhali Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Patuakhali Sadar, Patuakhali",
+      "phone": "+880-46-456789"
+    },
+    {
+      "branchName": "Pirojpur Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Pirojpur Sadar, Pirojpur",
+      "phone": "+880-47-234567"
+    },
+    
       {
         "branchName": "Bhola",
         "address": "Bangladesh Krishi Unnayan Bank, Bhola Sadar",
@@ -122,7 +278,32 @@
         "branchName": "Mymensingh",
         "address": "Bangladesh Krishi Unnayan Bank, Ganginarpar, Mymensingh",
         "phone": "+880-91-64216"
-      }
+      },
+      {
+      "branchName": "Mymensingh Main Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, 45 Station Road, Mymensingh",
+      "phone": "+880-91-123456"
+    },
+    {
+      "branchName": "Netrokona Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Netrokona Sadar, Netrokona",
+      "phone": "+880-91-654321"
+    },
+    {
+      "branchName": "Jamalpur Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Jamalpur Sadar, Jamalpur",
+      "phone": "+880-91-987654"
+    },
+    {
+      "branchName": "Sherpur Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Sherpur Sadar, Sherpur",
+      "phone": "+880-91-456789"
+    },
+    {
+      "branchName": "Kishoreganj Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Kishoreganj Sadar, Kishoreganj",
+      "phone": "+880-91-234567"
+    }
     ],
     "Rangpur": [
       {
@@ -130,6 +311,31 @@
         "address": "Bangladesh Krishi Unnayan Bank, Shapla Chattar, Rangpur",
         "phone": "+880-521-62155"
       },
+      {
+      "branchName": "Rangpur Main Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, 12 Shahrasti Road, Rangpur",
+      "phone": "+880-52-123456"
+    },
+    {
+      "branchName": "Dinajpur Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Dinajpur Sadar, Dinajpur",
+      "phone": "+880-53-654321"
+    },
+    {
+      "branchName": "Thakurgaon Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Thakurgaon Sadar, Thakurgaon",
+      "phone": "+880-54-987654"
+    },
+    {
+      "branchName": "Panchagarh Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Panchagarh Sadar, Panchagarh",
+      "phone": "+880-55-456789"
+    },
+    {
+      "branchName": "Lalmonirhat Branch",
+      "address": "Bangladesh Krishi Unnayan Bank, Lalmonirhat Sadar, Lalmonirhat",
+      "phone": "+880-56-234567"
+    },
       {
         "branchName": "Kurigram",
         "address": "Bangladesh Krishi Unnayan Bank, Kurigram Sadar",
