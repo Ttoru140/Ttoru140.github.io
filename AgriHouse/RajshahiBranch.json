@@ -121,6 +121,78 @@
         "type": "rural"
       }
     ],
+    "Natore": [
+      {
+        "branchName": "Abdulpur",
+        "address": "P.O. Abdulpur, P.S. Lalpur, Natore",
+        "telephone": "",
+        "email": "abdulpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ahmadpur",
+        "address": "P.O. Ahmmadpur, P.S. Baraigram, Natore",
+        "telephone": "",
+        "email": "ahmedpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bagatipara",
+        "address": "P.O. Laxmonhati, P.S. Bagatipara, Natore",
+        "telephone": "+88-07722-72016",
+        "email": "bagatipara@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Berilabari",
+        "address": "P.O. Berilabari, P.S. Lalpur, Natore",
+        "telephone": "+88-0723-56018",
+        "email": "berilabari@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Boraigram",
+        "address": "P.O. Haroa, P.S. Baraigram, Natore",
+        "telephone": "",
+        "email": "boraigram@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chapila",
+        "address": "P.O. Bripatharia, P.S. Gurudashpur, Natore",
+        "telephone": "",
+        "email": "chapila@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chowgram",
+        "address": "P.O. Chowgram, P.S. Singra, Natore",
+        "telephone": "",
+        "email": "chowgram@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gopalpur",
+        "address": "P.O. Rajapurhat, P.S. Baraigram, Natore",
+        "telephone": "",
+        "email": "gopalpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gouripur",
+        "address": "P.O. Dhapari, P.S. Lalpur, Natore",
+        "telephone": "+88-07725-75056",
+        "email": "gowripur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gurudashpur",
+        "address": "P.O. & P.S. Gurudaspur, Natore",
+        "telephone": "+88-07724-74044",
+        "email": "gurudaspur@rakub.org.bd",
+        "type": "urban"
+      }
+    ],
     "Pabna": [
       {
         "branchName": "Ishwardi",
