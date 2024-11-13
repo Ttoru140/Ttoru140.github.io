@@ -1,5 +1,542 @@
 {
     "districts": {
+       "Khulna": [
+    {
+        "branch_id": "508",
+        "branch_name": "BARAKPUR BAZAR",
+        "contact_number": "01730708528",
+        "email": "mgrbarakpurbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Barakpur",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "509",
+        "branch_name": "BATIAGHATA",
+        "contact_number": "0402-256006, 01712749470",
+        "email": "mgrbatiaghata@krishibank.org.bd",
+        "address": {
+            "post_office": "Batiaghata",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "510",
+        "branch_name": "BIRAT BAZAR",
+        "contact_number": "01711131447",
+        "email": "mgrbiratbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Phulbari",
+            "thana": "BiratBazar",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "511",
+        "branch_name": "CHANDKHALI",
+        "contact_number": "01730708531",
+        "email": "mgrchandkhali@krishibank.org.bd",
+        "address": {
+            "post_office": "Chandkhali",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "512",
+        "branch_name": "DACOPE",
+        "contact_number": "0402-356007, 01741746036",
+        "email": "mgrdacop@krishibank.org.bd",
+        "address": {
+            "post_office": "Dacope",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "513",
+        "branch_name": "DAULATPUR",
+        "contact_number": "0417-61546, 01711308913",
+        "email": "mgrdaulatpur.khulna@krishibank.org.bd",
+        "address": {
+            "post_office": "Daulatpur",
+            "thana": "Daulatpur",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "514",
+        "branch_name": "DUMURIA",
+        "contact_number": "0402-556005, 01711309407",
+        "email": "mgrdumuria@krishibank.org.bd",
+        "address": {
+            "post_office": "Dumuria",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "515",
+        "branch_name": "FULTALA",
+        "contact_number": "0417-01018, 01913252804",
+        "email": "mgrfultala@krishibank.org.bd",
+        "address": {
+            "post_office": "Phultala",
+            "thana": "Phultala",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "516",
+        "branch_name": "JAIGIRMOHAL",
+        "contact_number": "01730708536",
+        "email": "mgrjaigirmahal@krishibank.org.bd",
+        "address": {
+            "post_office": "Jagirmahal",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "517",
+        "branch_name": "JAMIRA BAZAR",
+        "contact_number": "01715448136",
+        "email": "mgrjamirabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Jamira Hat",
+            "thana": "Phultala",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "518",
+        "branch_name": "KAZDIA",
+        "contact_number": "0418-00108, 01711571685",
+        "email": "mgrkajdia@krishibank.org.bd",
+        "address": {
+            "post_office": "Alaipur",
+            "thana": "Rupsha",
+            "district": "Khulna"
+        }
+    },
+    {
+        "branch_id": "519",
+        "branch_name": "KDA BUS TERMINAL",
+        "contact_number": "0417-31556, 01715167400",
+        "email": "mgrkdabusterminal@krishibank.org.bd",
+        "address": {
+            "post_office": "KDA",
+            "district": "Khulna"
+        }
+    }
+],
+
+     "Jessore":   [
+    {
+        "branch_id": "448",
+        "branch_name": "BAGHARPARA",
+        "contact_number": "0422-356005",
+        "email": "mgrbagharpara@krishibank.org.bd",
+        "address": {
+            "post_office": "Bagharpara",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "449",
+        "branch_name": "CHOWGACHA",
+        "contact_number": "04224-56216, 01709643200",
+        "email": "mgrchowgacha@krishibank.org.bd",
+        "address": {
+            "post_office": "Chowgacha",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "450",
+        "branch_name": "GOPALPUR BAZAR",
+        "contact_number": "01730708473",
+        "email": "mgrgopalpurbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Khanpur",
+            "thana": "Monirampur",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "451",
+        "branch_name": "HASSANPUR",
+        "contact_number": "01730708474",
+        "email": "mgrhasanpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Hassanpur",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "452",
+        "branch_name": "JAGADISHPUR",
+        "contact_number": "01730708475",
+        "email": "mgrjagadishpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Jogodishpur",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "453",
+        "branch_name": "JASHORE",
+        "contact_number": "01730708476",
+        "email": "mgrjessore@krishibank.org.bd",
+        "address": {
+            "post_office": "Jessore Sadar",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "454",
+        "branch_name": "JHIKARGACHA",
+        "contact_number": "04225-71599, 01730708477",
+        "email": "mgrjikargacha@krishibank.org.bd",
+        "address": {
+            "post_office": "Jhikargacha",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "455",
+        "branch_name": "KAYEMKHOLA BAZAR",
+        "contact_number": "01730708478",
+        "email": "mgrkayemkolabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Kayemkola",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "468",
+        "branch_name": "KESHOBPUR",
+        "contact_number": "01730708479",
+        "email": "mgrkeshobpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Keshabpur",
+            "district": "Jessore"
+        }
+    },
+    {
+        "branch_id": "469",
+        "branch_name": "khajura Bazar",
+        "contact_number": "01755510956",
+        "email": "mgrtelidhannyapora@krishibank.org.bd",
+        "address": {
+            "post_office": "Khajura Bazar",
+            "district": "Jessore"
+        }
+    }
+],
+
+      "Gopalganj":  [
+    {
+        "branch_id": "366",
+        "branch_name": "BASHBARIA",
+        "contact_number": "01730708399",
+        "email": "mgrbashbaria@krishibank.org.bd",
+        "address": {
+            "post_office": "Bashbaria",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "367",
+        "branch_name": "BATIKAMARI BAZAR",
+        "contact_number": "01730708400",
+        "email": "mgrbatikamari@krishibank.org.bd",
+        "address": {
+            "post_office": "Batikamari",
+            "thana": "Muksudpur",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "368",
+        "branch_name": "BHANGARHAT",
+        "contact_number": "01755510969",
+        "email": "bhangarhat@krishibank.org.bd",
+        "address": {
+            "post_office": "Bhanger Hat",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "369",
+        "branch_name": "BHERARHAT",
+        "contact_number": "01730708401",
+        "email": "mgrbherarhat@krishibank.org.bd",
+        "address": {
+            "post_office": "Bherarhat",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "370",
+        "branch_name": "BONOGRAM",
+        "contact_number": "01730708398",
+        "email": "mgrbanogram@krishibank.org.bd",
+        "address": {
+            "post_office": "Bonogram",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "371",
+        "branch_name": "BOULTALI(KARPARA BAZAR)",
+        "contact_number": "01730708408",
+        "email": "mgrkarpara@krishibank.org.bd",
+        "address": {
+            "post_office": "Boultali",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "372",
+        "branch_name": "CHOWDHURIRHAT",
+        "contact_number": "01730708402",
+        "email": "mgrchowdhryha@krishibank.org.bd",
+        "address": {
+            "post_office": "Chowdhurirhat",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "373",
+        "branch_name": "GOALGRAM MADRASHA",
+        "contact_number": "01730708403",
+        "email": "mgrgoalgrammadrasa@krishibank.org.bd",
+        "address": {
+            "post_office": "Goalgram",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "374",
+        "branch_name": "GOHALA",
+        "contact_number": "01730708404",
+        "email": "mgrgohala@krishibank.org.bd",
+        "address": {
+            "post_office": "Gohala",
+            "thana": "Muksudpur",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "375",
+        "branch_name": "GOPALGONJ",
+        "contact_number": "01730708405",
+        "email": "mgrgopalganj@krishibank.org.bd",
+        "address": {
+            "post_office": "Gopalgonj",
+            "thana": "Gopalgonj Sadar",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "376",
+        "branch_name": "GOPINATPUR",
+        "contact_number": "01730708406",
+        "email": "mgrgopinathpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Gopinathpur",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "377",
+        "branch_name": "KAJULIA",
+        "contact_number": "01730708407",
+        "email": "mgrkajulia@krishibank.org.bd",
+        "address": {
+            "post_office": "Kajulia",
+            "district": "Gopalganj"
+        }
+    },
+    {
+        "branch_id": "378",
+        "branch_name": "KASHIANI",
+        "contact_number": "06652-56207, 01730708409",
+        "email": "mgrkasiani@krishibank.org.bd",
+        "address": {
+            "post_office": "Kashiani",
+            "district": "Gopalganj"
+        }
+    }
+],
+
+       "Gazipur": [
+    {
+        "branch_id": "349",
+        "branch_name": "AMRAID BAZAR",
+        "contact_number": "01730708382",
+        "email": "mgramraidbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Amraid bazar",
+            "thana": "Kapasia",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4214",
+        "branch_name": "AWRAKHALI BAZAR",
+        "contact_number": "01730708383",
+        "email": "mgrawrakhali@krishibank.org.bd",
+        "address": {
+            "post_office": "Awrakhali",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4216",
+        "branch_name": "FULBARIA",
+        "contact_number": "01730708384",
+        "email": "mgrfulbaria@krishibank.org.bd",
+        "address": {
+            "post_office": "Fulbaria",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4201",
+        "branch_name": "GAZIPUR",
+        "contact_number": "02-9263211, 01730708386",
+        "email": "mgrjoydebpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Gazipur Sadar",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4215",
+        "branch_name": "JAINABAZAR",
+        "contact_number": "01730708385",
+        "email": "mgrjainabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Jainabazar",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4209",
+        "branch_name": "KALIAKOIR",
+        "contact_number": "682251014, 01730708387",
+        "email": "mgrkaliakair@krishibank.org.bd",
+        "address": {
+            "post_office": "Kaliakoir",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4206",
+        "branch_name": "KALIGONJ",
+        "contact_number": "682351414, 01730708388",
+        "email": "mgrkaligonj@krishibank.org.bd",
+        "address": {
+            "post_office": "Kaligonj",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4202",
+        "branch_name": "KAPASHIA",
+        "contact_number": "682451313, 01730746159",
+        "email": "mgrkapasia@krishibank.org.bd",
+        "address": {
+            "post_office": "Kapashia",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4217",
+        "branch_name": "KHIRATI BAZAR",
+        "contact_number": "01730708390",
+        "email": "mgrkheratibazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Khirati Bazar",
+            "district": "Gazipur"
+        }
+    },
+    {
+        "branch_id": "4213",
+        "branch_name": "KONABARI",
+        "contact_number": "02-9297277, Mobile No: 01777785286",
+        "email": "mgrkonabari@krishibank.org.bd",
+        "address": {
+            "post_office": "Konabari",
+            "district": "Gazipur"
+        }
+    }
+],
+
+       "Feni": [
+    {
+        "branch_id": "2706",
+        "branch_name": "AMJADHAT",
+        "contact_number": "01730708367",
+        "email": "mgramjadhat@krishibank.org.bd",
+        "address": {
+            "post_office": "Amjadhat",
+            "thana": "Fulgazi",
+            "district": "Feni"
+        }
+    },
+    {
+        "branch_id": "2710",
+        "branch_name": "BOX MOHMUD BAZAR",
+        "contact_number": "01730708368",
+        "email": "mgrbmbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Box Mohmud Bazar",
+            "district": "Feni"
+        }
+    },
+    {
+        "branch_id": "2705",
+        "branch_name": "CHHAGALNAIYA",
+        "contact_number": "0332274034, 01730708369",
+        "email": "mgrchagalnaiya@krishibank.org.bd",
+        "address": {
+            "post_office": "Chhagalnaiya",
+            "district": "Feni"
+        }
+    },
+    {
+        "branch_id": "2704",
+        "branch_name": "DAGONBHUIYAN",
+        "contact_number": "03323-79014, 01730708370",
+        "email": "mgrdagonbhuiya@krishibank.org.bd",
+        "address": {
+            "post_office": "Dagonbhuiyan",
+            "district": "Feni"
+        }
+    },
+    {
+        "branch_id": "2703",
+        "branch_name": "DUDMUKHA BAZAR (ETIM KHANA BAZAR)",
+        "contact_number": "01730708371",
+        "email": "mgretimkhanabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Dudmukha Bazar",
+            "thana": "Dagonbhuiyan",
+            "district": "Feni"
+        }
+    },
+    {
+        "branch_id": "2717",
+        "branch_name": "FAZILPUR BAZAR",
+        "contact_number": "01730708373",
+        "email": "mgrfazilpurbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Fazilpur Bazar",
+            "district": "Feni"
+        }
+    }
+],
+
         "BAGERHAT": [
             {
                 "branch_id": "1408",
