@@ -1,217 +1,211 @@
 {
-  "zones": [
-    {
-      "zoneName": "Rajshahi",
-      "branches": [
-        {
-          "branchName": "Aloknagor",
-          "address": "P.O. Goalkandi, Upazilla Bagmara, Rajshahi",
-          "telephone": "",
-          "email": "aloknagor@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Bagha",
-          "address": "P.O. Bagha, Rajshahi",
-          "telephone": "+88-07233-56008",
-          "email": "bagha@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Bargachi",
-          "address": "P.O. Bargachi, P.S.Paba, Rajshahi",
-          "telephone": "+88-0721-800179",
-          "email": "bargachi@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Bhabaniganj",
-          "address": "P.O. Bhabaniganj, Rajshahi",
-          "telephone": "+88-07222-56010",
-          "email": "bhabaniganj@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Binodpur",
-          "address": "P.O. Binodpur Bazar, Rajshahi",
-          "telephone": "+88-0721-750627",
-          "email": "binodpur@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Daokandi",
-          "address": "Daokandi, Durgapur, Rajshahi",
-          "telephone": "",
-          "email": "daokandi@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Durgapur",
-          "address": "P.O. Durgapur, Upazilla",
-          "telephone": "+88-07224-56006",
-          "email": "durgapur-raj@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Godagari",
-          "address": "P.O. Godagari, Upazilla",
-          "telephone": "+88-07225-56004",
-          "email": "godagari@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Greater Road Kazihata",
-          "address": "Sadaron Bima Bhaban, Kazihata, Rajshahi-6000",
-          "telephone": "",
-          "email": "kazihata@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Hujuripara",
-          "address": "P.O. Darusha, Upazilla Paba, Rajshahi",
-          "telephone": "",
-          "email": "hujuripara@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Kakonhat",
-          "address": "P.O. Kakanhat, Upazilla",
-          "telephone": "+8807234-51015",
-          "email": "kakonhat@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Kaliganj",
-          "address": "P.O. Saranjai, Upazilla Tanor, Rajshahi",
-          "telephone": "+88-07229-56087",
-          "email": "kaliganj-raj@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Kamargaon",
-          "address": "P.O. Kamargoan, P.S Tanore, Rajshahi",
-          "telephone": "",
-          "email": "kamargaon@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Kharkhari",
-          "address": "P.O. Kharkhari, Upazilla Paba, Rajshahi",
-          "telephone": "",
-          "email": "kharkhari@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Maugachi",
-          "address": "P.O. Maugachi, Upazilla Mohonpur, Rajshahi",
-          "telephone": "+88-0721-800176",
-          "email": "maugachi@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Mochmoil Bazar",
-          "address": "P.O. Mochmoil Bazar, Upazilla Baghmara, Rajshahi",
-          "telephone": "",
-          "email": "mochmoilbazar@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Mohonpur",
-          "address": "P.O. Mohonpur, Upazilla",
-          "telephone": "+88-07226-56005",
-          "email": "mohonpur@rakub.org.bd",
-          "type": "rural"
-        }
-      ]
-    },
-    {
-      "zoneName": "Pabna",
-      "branches": [
-        {
-          "branchName": "Ishwardi",
-          "address": "P.O. Ishwardi, Pabna",
-          "telephone": "+88-07324-56203",
-          "email": "ishwardi@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Pabna Sadar",
-          "address": "P.O. Pabna Sadar, Pabna",
-          "telephone": "+88-0731-65555",
-          "email": "pabnasadar@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Chatmohar",
-          "address": "P.O. Chatmohar, Pabna",
-          "telephone": "+88-07326-51234",
-          "email": "chatmohar@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Faridpur",
-          "address": "P.O. Faridpur, Pabna",
-          "telephone": "+88-0732-45677",
-          "email": "faridpur@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Santhia",
-          "address": "P.O. Santhia, Pabna",
-          "telephone": "+88-07323-56543",
-          "email": "santhia@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Bera",
-          "address": "P.O. Bera, Pabna",
-          "telephone": "+88-07325-55008",
-          "email": "bera@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Sujanagar",
-          "address": "P.O. Sujanagar, Pabna",
-          "telephone": "+88-07329-52014",
-          "email": "sujanagar@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Ataikula",
-          "address": "P.O. Ataikula, Pabna",
-          "telephone": "+88-0732-46821",
-          "email": "ataikula@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Banwarinagar",
-          "address": "P.O. Banwarinagar, Pabna",
-          "telephone": "+88-07327-56789",
-          "email": "banwarinagar@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Bhangura",
-          "address": "P.O. Bhangura, Pabna",
-          "telephone": "+88-07328-55123",
-          "email": "bhangura@rakub.org.bd",
-          "type": "rural"
-        },
-        {
-          "branchName": "Hemnagar",
-          "address": "P.O. Hemnagar, Pabna",
-          "telephone": "+88-0733-56666",
-          "email": "hemnagar@rakub.org.bd",
-          "type": "urban"
-        },
-        {
-          "branchName": "Pakshi",
-          "address": "P.O. Pakshi, Pabna",
-          "telephone": "+88-0733-55888",
-          "email": "pakshi@rakub.org.bd",
-          "type": "urban"
-        }
-      ]
-    }
-  ]
+  "zones": {
+    "Rajshahi": [
+      {
+        "branchName": "Aloknagor",
+        "address": "P.O. Goalkandi, Upazilla Bagmara, Rajshahi",
+        "telephone": "",
+        "email": "aloknagor@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bagha",
+        "address": "P.O. Bagha, Rajshahi",
+        "telephone": "+88-07233-56008",
+        "email": "bagha@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Bargachi",
+        "address": "P.O. Bargachi, P.S.Paba, Rajshahi",
+        "telephone": "+88-0721-800179",
+        "email": "bargachi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bhabaniganj",
+        "address": "P.O. Bhabaniganj, Rajshahi",
+        "telephone": "+88-07222-56010",
+        "email": "bhabaniganj@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Binodpur",
+        "address": "P.O. Binodpur Bazar, Rajshahi",
+        "telephone": "+88-0721-750627",
+        "email": "binodpur@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Daokandi",
+        "address": "Daokandi, Durgapur, Rajshahi",
+        "telephone": "",
+        "email": "daokandi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Durgapur",
+        "address": "P.O. Durgapur, Upazilla",
+        "telephone": "+88-07224-56006",
+        "email": "durgapur-raj@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Godagari",
+        "address": "P.O. Godagari, Upazilla",
+        "telephone": "+88-07225-56004",
+        "email": "godagari@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Greater Road Kazihata",
+        "address": "Sadaron Bima Bhaban, Kazihata, Rajshahi-6000",
+        "telephone": "",
+        "email": "kazihata@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Hujuripara",
+        "address": "P.O. Darusha, Upazilla Paba, Rajshahi",
+        "telephone": "",
+        "email": "hujuripara@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kakonhat",
+        "address": "P.O. Kakanhat, Upazilla",
+        "telephone": "+8807234-51015",
+        "email": "kakonhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kaliganj",
+        "address": "P.O. Saranjai, Upazilla Tanor, Rajshahi",
+        "telephone": "+88-07229-56087",
+        "email": "kaliganj-raj@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kamargaon",
+        "address": "P.O. Kamargoan, P.S Tanore, Rajshahi",
+        "telephone": "",
+        "email": "kamargaon@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kharkhari",
+        "address": "P.O. Kharkhari, Upazilla Paba, Rajshahi",
+        "telephone": "",
+        "email": "kharkhari@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Maugachi",
+        "address": "P.O. Maugachi, Upazilla Mohonpur, Rajshahi",
+        "telephone": "+88-0721-800176",
+        "email": "maugachi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Mochmoil Bazar",
+        "address": "P.O. Mochmoil Bazar, Upazilla Baghmara, Rajshahi",
+        "telephone": "",
+        "email": "mochmoilbazar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Mohonpur",
+        "address": "P.O. Mohonpur, Upazilla",
+        "telephone": "+88-07226-56005",
+        "email": "mohonpur@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+    "Pabna": [
+      {
+        "branchName": "Ishwardi",
+        "address": "P.O. Ishwardi, Pabna",
+        "telephone": "+88-07324-56203",
+        "email": "ishwardi@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Pabna Sadar",
+        "address": "P.O. Pabna Sadar, Pabna",
+        "telephone": "+88-0731-65555",
+        "email": "pabnasadar@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Chatmohar",
+        "address": "P.O. Chatmohar, Pabna",
+        "telephone": "+88-07326-51234",
+        "email": "chatmohar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Faridpur",
+        "address": "P.O. Faridpur, Pabna",
+        "telephone": "+88-0732-45677",
+        "email": "faridpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Santhia",
+        "address": "P.O. Santhia, Pabna",
+        "telephone": "+88-07323-56543",
+        "email": "santhia@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Bera",
+        "address": "P.O. Bera, Pabna",
+        "telephone": "+88-07325-55008",
+        "email": "bera@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sujanagar",
+        "address": "P.O. Sujanagar, Pabna",
+        "telephone": "+88-07329-52014",
+        "email": "sujanagar@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Ataikula",
+        "address": "P.O. Ataikula, Pabna",
+        "telephone": "+88-0732-46821",
+        "email": "ataikula@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Banwarinagar",
+        "address": "P.O. Banwarinagar, Pabna",
+        "telephone": "+88-07327-56789",
+        "email": "banwarinagar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bhangura",
+        "address": "P.O. Bhangura, Pabna",
+        "telephone": "+88-07328-55123",
+        "email": "bhangura@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Hemnagar",
+        "address": "P.O. Hemnagar, Pabna",
+        "telephone": "+88-0733-56666",
+        "email": "hemnagar@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Pakshi",
+        "address": "P.O. Pakshi, Pabna",
+        "telephone": "+88-0733-55888",
+        "email": "pakshi@rakub.org.bd",
+        "type": "urban"
+      }
+    ]
+  }
 }
