@@ -41,6 +41,182 @@
                     "post_office": "Chaksree Bazar",
                     "district": "Bagerhat"
                 }
+            },
+            {
+                "branch_id": "1409",
+                "branch_name": "CHITALMARI",
+                "contact_numbers": ["465256004", "01730708045"],
+                "email": "mgrchitalmaribazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Chitalmari",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1419",
+                "branch_name": "DAIBANCHA HATI",
+                "contact_number": "01730708046",
+                "email": "mgrdaibanchahati@krishibank.org.bd",
+                "address": {
+                    "post_office": "Daibaghati",
+                    "sub_district": "Morrelgonj",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1402",
+                "branch_name": "DARGAH",
+                "contact_numbers": ["0468-63698", "01730708047"],
+                "email": "mgrdargah@krishibank.org.bd",
+                "address": {
+                    "post_office": "K Ali Dargah",
+                    "sub_district": "Bagerhat Sadar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1403",
+                "branch_name": "FAKIRHAT",
+                "contact_numbers": ["465356221", "01730708048"],
+                "email": "mgrfakirhat@krishibank.org.bd",
+                "address": {
+                    "post_office": "Fakirhat",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1420",
+                "branch_name": "FALTITA BAZAR",
+                "contact_number": "01730708049",
+                "email": "mgrfaltitabazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Faltita Bazar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1414",
+                "branch_name": "FULHATA BAZAR",
+                "contact_number": "01730708050",
+                "email": "mgrfulhatabazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Fulhata Bazar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1407",
+                "branch_name": "GAZALIA BAZAR",
+                "contact_number": "01730708051",
+                "email": "mgrgajaliabazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Gazalia Bazar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1406",
+                "branch_name": "KACHUA",
+                "contact_numbers": ["465456018", "01730708052"],
+                "email": "mgrkachua@krishibank.org.bd",
+                "address": {
+                    "post_office": "Kachua",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1405",
+                "branch_name": "KALATOLA",
+                "contact_number": "01730708053",
+                "email": "mgrkalatalabazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Char Chingri",
+                    "sub_district": "Kalatala, Chitalmari",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1404",
+                "branch_name": "MOLLAHAT",
+                "contact_numbers": ["465556013", "01730708054"],
+                "email": "mgrmollahat@krishibank.org.bd",
+                "address": {
+                    "post_office": "Mollahat Branch",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1416",
+                "branch_name": "MONGLAPORT",
+                "contact_numbers": ["465873237", "01755510958"],
+                "email": "mgrmonglaport@krishibank.org.bd",
+                "address": {
+                    "post_office": "Monglaport",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1412",
+                "branch_name": "MORRELGANJ",
+                "contact_numbers": ["465656275", "01755510959"],
+                "email": "mgrmorelgonj@krishibank.org.bd",
+                "address": {
+                    "post_office": "Morrelgonj",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1418",
+                "branch_name": "MUKHAIT (TALESHWAR)",
+                "contact_number": "01730708057",
+                "email": "mgrmukkhayit@krishibank.org.bd",
+                "address": {
+                    "post_office": "Mukkhait",
+                    "sub_district": "Bagerhat Sadar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1410",
+                "branch_name": "RAMPAL",
+                "contact_numbers": ["465756012", "01730708059"],
+                "email": "mgrrampal@krishibank.org.bd",
+                "address": {
+                    "post_office": "Rampal",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1415",
+                "branch_name": "RAYENDA BAZAR",
+                "contact_number": "01730708058",
+                "email": "mgrraiyendabazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Rayenda Bazar",
+                    "sub_district": "Sarankhola",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1413",
+                "branch_name": "SONNASHI BAZAR",
+                "contact_number": "01730708060",
+                "email": "mgrsannashibazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Sonnashi Bazar",
+                    "sub_district": "Khawlia, Morrelgonj",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1417",
+                "branch_name": "TOWN NOAPARA",
+                "contact_number": "01730708061",
+                "email": "mgrtownnoapara@krishibank.org.bd",
+                "address": {
+                    "post_office": "Town Noapara",
+                    "district": "Bagerhat"
+                }
             }
         ],
         "BANDARBAN": [
@@ -65,13 +241,42 @@
                 }
             },
             {
-                "branch_id": "3121",
-                "branch_name": "BAISHARI",
-                "contact_number": "01730708064",
-                "email": "mgrbbaishari@krishibank.org.bd",
+                "branch_id": "3111",
+                "branch_name": "BANDARBAN",
+                "contact_numbers": ["0361-62035", "01730708064"],
+                "email": "mgrbandarban@krishibank.org.bd",
                 "address": {
-                    "post_office": "Baishari",
-                    "sub_district": "Naikhongchari",
+                    "post_office": "Bandarban Sadar",
+                    "district": "Bandarban"
+                }
+            },
+            {
+                "branch_id": "3112",
+                "branch_name": "LAMA",
+                "contact_numbers": ["0362-57006", "01730708065"],
+                "email": "mgrlama@krishibank.org.bd",
+                "address": {
+                    "post_office": "Lama",
+                    "district": "Bandarban"
+                }
+            },
+            {
+                "branch_id": "3114",
+                "branch_name": "NAIKHONGCHORI",
+                "contact_numbers": ["0361-70007", "01730708066"],
+                "email": "mgrnaikhangchhari@krishibank.org.bd",
+                "address": {
+                    "post_office": "Naikhongchori",
+                    "district": "Bandarban"
+                }
+            },
+            {
+                "branch_id": "3115",
+                "branch_name": "THANCHI",
+                "contact_number": "01730708067",
+                "email": "mgrthanchi@krishibank.org.bd",
+                "address": {
+                    "post_office": "Thanchi",
                     "district": "Bandarban"
                 }
             }
