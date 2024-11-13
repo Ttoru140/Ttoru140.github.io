@@ -200,6 +200,62 @@
         "type": "urban"
       },
       {
+        "branchName": "Aminpur",
+        "address": "P.O. Aminpur Bazar, P.S. Bera, Pabna",
+        "telephone": "",
+        "email": "aminpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bera",
+        "address": "P.O. P.S. Bera, Pabna",
+        "telephone": "+88-07323-75047",
+        "email": "bera@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Bonkolahat",
+        "address": "P.O. Bonkolahat, P.S. Sujanagor, Pabna",
+        "telephone": "",
+        "email": "bonkolahat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bonoari Nagar",
+        "address": "P.O. Bonoari Nagar, P.S. Faridpur, Pabna",
+        "telephone": "+88-07325-64008",
+        "email": "bononagar@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Chinakhora",
+        "address": "Chinakhora Bazar, P.S. Suzanagar, Pabna",
+        "telephone": "",
+        "email": "chinakhora@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dhulauri",
+        "address": "P.O. Nurdaha, P.S. Shanthia, Pabna",
+        "telephone": "",
+        "email": "dhulauri@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Durgapur",
+        "address": "P.O. Gobindapur, P.S. Sujanagor, Pabna",
+        "telephone": "+88-07332-54117",
+        "email": "durgapur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Hadol",
+        "address": "P.O. Dhanuaghata, P.S. Faridpur, Pabna",
+        "telephone": "",
+        "email": "hadol@rakub.org.bd",
+        "type": "rural"
+      },
+      {
         "branchName": "Pakshi",
         "address": "P.O. Pakshi, Pabna",
         "telephone": "+88-0733-55888",
