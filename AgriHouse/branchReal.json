@@ -1,0 +1,80 @@
+{
+    "districts": {
+        "BAGERHAT": [
+            {
+                "branch_id": "1408",
+                "branch_name": "BADHAL BAZAR",
+                "contact_number": "01730708042",
+                "email": "mgrbadhalbazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Badhal Bazar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1401",
+                "branch_name": "BAGERHAT",
+                "contact_numbers": ["0468-62310", "01730708056"],
+                "email": "mgrbagerhat@krishibank.org.bd",
+                "address": {
+                    "post_office": "Bagerhat Sadar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1421",
+                "branch_name": "C&B BAZAR",
+                "contact_number": "01730708055",
+                "email": "mgrcnbbazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Rakhalgasi",
+                    "sub_district": "Bagerhat Sadar",
+                    "district": "Bagerhat"
+                }
+            },
+            {
+                "branch_id": "1411",
+                "branch_name": "CHAKSREE BAZAR",
+                "contact_number": "01730708044",
+                "email": "mgrchaksreebazar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Chaksree Bazar",
+                    "district": "Bagerhat"
+                }
+            }
+        ],
+        "BANDARBAN": [
+            {
+                "branch_id": "3119",
+                "branch_name": "ALIKADAM",
+                "contact_number": "01730708062",
+                "email": "mgralikadam@krishibank.org.bd",
+                "address": {
+                    "post_office": "Alikadam",
+                    "district": "Bandarban"
+                }
+            },
+            {
+                "branch_id": "3118",
+                "branch_name": "AZIZ NAGAR",
+                "contact_number": "01730708063",
+                "email": "mgraziznagar@krishibank.org.bd",
+                "address": {
+                    "post_office": "Aziz Nagar",
+                    "district": "Bandarban"
+                }
+            },
+            {
+                "branch_id": "3121",
+                "branch_name": "BAISHARI",
+                "contact_number": "01730708064",
+                "email": "mgrbbaishari@krishibank.org.bd",
+                "address": {
+                    "post_office": "Baishari",
+                    "sub_district": "Naikhongchari",
+                    "district": "Bandarban"
+                }
+            }
+        ]
+    }
+}
