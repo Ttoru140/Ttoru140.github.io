@@ -219,6 +219,219 @@
                 }
             }
         ],
+       "Chittagong": [
+  {
+    "branch_id": "3308",
+    "branch_name": "ALAMSHAPARA MADRASHA",
+    "contact_number": ["01730708184"],
+    "email": "mgralamshahpara@krishibank.org.bd",
+    "address": {
+      "post_office": "Alamshahpara",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "5501",
+    "branch_name": "ASHRAF ALI CHOWDHURY HAT",
+    "contact_number": ["01755510931"],
+    "email": "aachyhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Ashraf Ali Chowdhury Hat",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2908",
+    "branch_name": "AZADI BAZAR",
+    "contact_number": ["01730708186"],
+    "email": "mgrazadibazar@krishibank.org.bd",
+    "address": {
+      "post_office": "Azadi Bazar",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2906",
+    "branch_name": "FATIKCHARI",
+    "contact_number": ["03022-56023", "01730708202"],
+    "email": "mgrfatickchari@krishibank.org.bd",
+    "address": {
+      "post_office": "Fatickchari",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2919",
+    "branch_name": "HATHAZARI",
+    "contact_number": ["01730708205"],
+    "email": "mgrhathajari@krishibank.org.bd",
+    "address": {
+      "post_office": "Hathazari",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2907",
+    "branch_name": "HEAKO",
+    "contact_number": ["01730708206"],
+    "email": "mgrheako@krishibank.org.bd",
+    "address": {
+      "post_office": "Heako",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2927",
+    "branch_name": "KATIRHAT",
+    "contact_number": ["01817740251"],
+    "email": "mgrkatirhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Katirhat",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2920",
+    "branch_name": "MADANHAT",
+    "contact_number": ["031-2601516", "01730708215"],
+    "email": "mgrmadanhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Madanhat",
+      "district": "Hathazari, Chittagong"
+    }
+  },
+  {
+    "branch_id": "2933",
+    "branch_name": "NANUPUR BAZAR (MAIZBHANDER SHARIF)",
+    "contact_number": ["01730708216"],
+    "email": "mgrmaizbhandersharif@krishibank.org.bd",
+    "address": {
+      "post_office": "Nanupur Bazar",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2909",
+    "branch_name": "NARAYANHAT",
+    "contact_number": ["01730708219"],
+    "email": "mgrnarayanhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Narayanhat",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2910",
+    "branch_name": "NAZIRHAT",
+    "contact_number": ["01730708220"],
+    "email": "mgrnazirhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Nazirhat",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2921",
+    "branch_name": "NAZUMIARHAT",
+    "contact_number": ["031-670905"],
+    "email": "mgrnazumiahat@krishibank.org.bd",
+    "address": {
+      "post_office": "Nuralibari",
+      "district": "Hathazari, Chittagong"
+    }
+  },
+  {
+    "branch_id": "3307",
+    "branch_name": "PAHARTALI CHOWMOHANI",
+    "contact_number": ["01730708222"],
+    "email": "mgrpahartalichoumuhani@krishibank.org.bd",
+    "address": {
+      "post_office": "Pahartali",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2922",
+    "branch_name": "PATHERHAT",
+    "contact_number": ["01730708224"],
+    "email": "mgrpatherhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Guzra",
+      "district": "Rawjan, Chittagong"
+    }
+  },
+  {
+    "branch_id": "3306",
+    "branch_name": "POMRA",
+    "contact_number": ["01730708226"],
+    "email": "mgrpomra@krishibank.org.bd",
+    "address": {
+      "post_office": "Pomra",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "3305",
+    "branch_name": "RANGUNIA",
+    "contact_number": ["0302-556048", "01730708227"],
+    "email": "mgrrangunia@krishibank.org.bd",
+    "address": {
+      "post_office": "Rangunia",
+      "district": "Rangunia, Chittagong"
+    }
+  },
+  {
+    "branch_id": "2934",
+    "branch_name": "RANGUNIA COLLEGE",
+    "contact_number": ["01730708228"],
+    "email": "mgrranguniacollege@krishibank.org.bd",
+    "address": {
+      "post_office": "Rangunia College",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2923",
+    "branch_name": "RAUZAN",
+    "contact_number": ["01730708229"],
+    "email": "mgrraujan@krishibank.org.bd",
+    "address": {
+      "post_office": "Roujan",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2915",
+    "branch_name": "ABU TORAB BAZAR",
+    "contact_number": ["01730708181"],
+    "email": "mgrabutorabbazar@krishibank.org.bd",
+    "address": {
+      "post_office": "Abutorab Bazar",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2918",
+    "branch_name": "ABUR HAT",
+    "contact_number": ["01730708182"],
+    "email": "mgraburhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Abur Hat",
+      "district": "Chittagong"
+    }
+  },
+  {
+    "branch_id": "2917",
+    "branch_name": "B.M. DAROGAR HAT",
+    "contact_number": ["01730708187"],
+    "email": "mgrbsdarogahat@krishibank.org.bd",
+    "address": {
+      "post_office": "Banon Darogar Hat",
+      "district": "Mirsarai, Chittagong"
+    }
+  }
+],
+
          "Barishal": [
       {
         "branch_id": "0209",
