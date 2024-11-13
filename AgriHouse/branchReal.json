@@ -219,6 +219,168 @@
                 }
             }
         ],
+        "Barguna": [
+      {
+        "branch_id": "0606",
+        "branch_name": "AMTALI",
+        "contact_number": ["04452-56018", "01730708071"],
+        "email": "mgramtali@krishibank.org.bd",
+        "address": {
+          "post_office": "Amtali",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0612",
+        "branch_name": "AYLA BAZAR",
+        "contact_number": ["01730708072"],
+        "email": "mgraylabazar@krishibank.org.bd",
+        "address": {
+          "post_office": "Ayla Bazar",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0609",
+        "branch_name": "BAMNA",
+        "contact_number": ["01730708073"],
+        "email": "mgrbamna@krishibank.org.bd",
+        "address": {
+          "post_office": "Bamna",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0601",
+        "branch_name": "BARGUNA",
+        "contact_number": ["0448-62215"],
+        "email": "mgrbarguna@krishibank.org.bd",
+        "address": {
+          "post_office": "Barguna Sadar",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0603",
+        "branch_name": "BETAGI",
+        "contact_number": ["04454-56006", "01730708075"],
+        "email": "mgrbetagi@krishibank.org.bd",
+        "address": {
+          "post_office": "Betagi",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0604",
+        "branch_name": "CHANDOKHALI",
+        "contact_number": ["01730-708076"],
+        "email": "mgrchandkhalibarguna@krishibank.org.bd",
+        "address": {
+          "post_office": "Chandkhali",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0611",
+        "branch_name": "CHARDUANI BAZAR",
+        "contact_number": ["01730708077"],
+        "email": "mgrcharduanibazar@krishibank.org.bd",
+        "address": {
+          "post_office": "Charduani-Patharghata",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0615",
+        "branch_name": "DAUATALA",
+        "contact_number": ["01730708078"],
+        "email": "mgrdowatala@krishibank.org.bd",
+        "address": {
+          "post_office": "Dawatala-Bamna",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0610",
+        "branch_name": "FULJURI BAZAR",
+        "contact_number": ["01730708079"],
+        "email": "mgrfuljhuribazar@krishibank.org.bd",
+        "address": {
+          "post_office": "Fuljuri Bazar",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0616",
+        "branch_name": "GOURICHANNA",
+        "contact_number": ["01730708080"],
+        "email": "mgrgourichanna@krishibank.org.bd",
+        "address": {
+          "post_office": "Gourichanna",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0613",
+        "branch_name": "HOSHNABAD",
+        "contact_number": ["01730708081"],
+        "email": "mgrhosnabad@krishibank.org.bd",
+        "address": {
+          "post_office": "Hasnabad-Betagi",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0608",
+        "branch_name": "KAKUA",
+        "contact_number": ["01730708082"],
+        "email": "mgrkakua@krishibank.org.bd",
+        "address": {
+          "post_office": "Kukua",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0614",
+        "branch_name": "LEMUA",
+        "contact_number": ["01730-708083"],
+        "email": "mgrlemua@krishibank.org.bd",
+        "address": {
+          "post_office": "Patharghata",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0605",
+        "branch_name": "MOKAMIA",
+        "contact_number": ["01730708084"],
+        "email": "mgrmokamia@krishibank.org.bd",
+        "address": {
+          "post_office": "Mokamia-Betagi",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0607",
+        "branch_name": "TALTALI",
+        "contact_number": ["01730-708086"],
+        "email": "mgrtaltalibarg@krishibank.org.bd",
+        "address": {
+          "post_office": "Taltali",
+          "district": "Barguna"
+        }
+      },
+      {
+        "branch_id": "0602",
+        "branch_name": "PATHARGHATA",
+        "contact_number": ["04455-75010"],
+        "email": "mgrpatharghata@krishibank.org.bd",
+        "address": {
+          "post_office": "Patharghata",
+          "district": "Barguna"
+        }
+      }
+    ],
         "BANDARBAN": [
             {
                 "branch_id": "3119",
