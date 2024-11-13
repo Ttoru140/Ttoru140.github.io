@@ -219,6 +219,238 @@
                 }
             }
         ],
+         "Barishal": [
+      {
+        "branch_id": "0209",
+        "branch_name": "AGAILJHARA",
+        "contact_number": ["01730708087"],
+        "email": "mgragailjhara@krishibank.org.bd",
+        "address": {
+          "post_office": "Agoailjhara",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0205",
+        "branch_name": "BABUGANJ",
+        "contact_number": ["04327-73337", "01730708088"],
+        "email": "mgrbabugonj@krishibank.org.bd",
+        "address": {
+          "post_office": "Babugonj",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0223",
+        "branch_name": "BAISARI",
+        "contact_number": ["01730708089"],
+        "email": "mgrbaishari@krishibank.org.bd",
+        "address": {
+          "post_office": "Baisari",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0202",
+        "branch_name": "BAKERGANJ",
+        "contact_number": ["01730708090"],
+        "email": "mgrbakergonj@krishibank.org.bd",
+        "address": {
+          "post_office": "Bakergonj",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0222",
+        "branch_name": "BANARIPARA",
+        "contact_number": ["01730708091"],
+        "email": "mgrbanaripara@krishibank.org.bd",
+        "address": {
+          "post_office": "Banaripara",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0201",
+        "branch_name": "BARISHAL",
+        "contact_number": ["0431-64914"],
+        "email": "mgrbarisal@krishibank.org.bd",
+        "address": {
+          "post_office": "Barishal Sadar",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0212",
+        "branch_name": "BHASHANCHAR",
+        "contact_number": ["01730708093"],
+        "email": "mgrbhashanchar@krishibank.org.bd",
+        "address": {
+          "post_office": "Bhashanchar",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0228",
+        "branch_name": "CHOYGRAM BAZAR",
+        "contact_number": ["01755510960"],
+        "email": "mgrchoygrambazar@krishibank.org.bd",
+        "address": {
+          "post_office": "Choygram",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0208",
+        "branch_name": "GOURNADI",
+        "contact_number": ["01730708094", "04322-56128"],
+        "email": "mgrgouranadi@krishibank.org.bd",
+        "address": {
+          "post_office": "Gournadi",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0224",
+        "branch_name": "HABIBPUR BAZAR",
+        "contact_number": ["01730708095"],
+        "email": "mgrhabibpurbazar@krishibank.org.bd",
+        "address": {
+          "post_office": "Habibpur",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0229",
+        "branch_name": "HARTA BANDOR",
+        "contact_number": ["01755-510961"],
+        "email": "hartabandor@krishibank.org.bd",
+        "address": {
+          "post_office": "Harta",
+          "district": "Uzirpur, Barishal"
+        }
+      },
+      {
+        "branch_id": "0216",
+        "branch_name": "HIZLA",
+        "contact_number": ["01730708096"],
+        "email": "mgrhijla@krishibank.org.bd",
+        "address": {
+          "post_office": "Hijla",
+          "district": "Barishal"
+        }
+      },
+      {
+        "branch_id": "0225",
+        "branch_name": "KARFA BAZAR",
+        "contact_number": ["01730708995"],
+        "email": "mgrkarfabazar@krishibank.org.bd",
+        "address": {
+          "post_office": "Karfa Bazar",
+          "district": "Barishal"
+        }
+      },
+             {
+    "branch_id": "0229",
+    "branch_name": "HARTA BANDOR",
+    "contact_number": ["01755-510961"],
+    "email": "hartabandor@krishibank.org.bd",
+    "address": {
+      "post_office": "Harta",
+      "district": "Uzirpur, Barishal"
+    }
+  },
+  {
+    "branch_id": "0216",
+    "branch_name": "HIZLA",
+    "contact_number": ["01730708096"],
+    "email": "mgrhijla@krishibank.org.bd",
+    "address": {
+      "post_office": "Hijla",
+      "district": "BARISAL"
+    }
+  },
+  {
+    "branch_id": "0225",
+    "branch_name": "KARFA BAZAR",
+    "contact_number": ["01730708995"],
+    "email": "mgrkarfabazar@krishibank.org.bd",
+    "address": {
+      "post_office": "Karfa Bazar",
+      "district": "BARISAL"
+    }
+  },
+  {
+    "branch_id": "0219",
+    "branch_name": "KAZIR HAT",
+    "contact_number": ["01730708097"],
+    "email": "mgrkazirhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Kazirhat",
+      "district": "Barishal"
+    }
+  },
+  {
+    "branch_id": "0215",
+    "branch_name": "KHASHER HAT",
+    "contact_number": ["01730708098"],
+    "email": "mgrkhasherhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Khaser Hat",
+      "district": "Barishal"
+    }
+  },
+  {
+    "branch_id": "0230",
+    "branch_name": "LANGUTIA",
+    "contact_number": ["01755510962"],
+    "email": "mgrlangutiabazar@krishibank.org.bd",
+    "address": {
+      "post_office": "Lengutia",
+      "district": "Up-Jangalia, Upzila-Mehendigonj, Dist-Barisal"
+    }
+  },
+  {
+    "branch_id": "0203",
+    "branch_name": "MOHESHPUR",
+    "contact_number": ["01730708100"],
+    "email": "mgrmoheshpurbazar@krishibank.org.bd",
+    "address": {
+      "post_office": "Moheshpur",
+      "district": "BARISAL"
+    }
+  },
+  {
+    "branch_id": "0227",
+    "branch_name": "MOHILARA",
+    "contact_number": ["01730708099"],
+    "email": "mgrmahilara@krishibank.org.bd",
+    "address": {
+      "post_office": "Mahilara",
+      "district": "BARISAL"
+    }
+  },
+  {
+    "branch_id": "0231",
+    "branch_name": "MOKIMABAD BAZAR",
+    "contact_number": ["01715108226"],
+    "email": "Mokimabad@krishibank.org.bd",
+    "address": {
+      "post_office": "Mokimabad",
+      "district": "Barisal"
+    }
+  },
+  {
+    "branch_id": "0220",
+    "branch_name": "MOULAVIR HAT",
+    "contact_number": [],
+    "email": "mgrmoulvirhat@krishibank.org.bd",
+    "address": {
+      "post_office": "Moulovir Hat",
+      "district": "BARISAL"
+    }
+  }
+    ],
         "Barguna": [
       {
         "branch_id": "0606",
