@@ -219,6 +219,115 @@
                 }
             }
         ],
+         "DHAKA": [
+             {
+        "branch_id": "4101",
+        "branch_name": "KAWRAN BAZAR CORPORATE",
+        "contact_number": "01914837879",
+        "email": "corpkawranbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Tejgaon",
+            "thana": "Tejgaon",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4116",
+        "branch_name": "BANANI CORPORATE",
+        "contact_number": "01977774222",
+        "email": "corpbanani@krishibank.org.bd",
+        "address": {
+            "post_office": "Banani",
+            "thana": "Gulshan",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4124",
+        "branch_name": "ASHULIA",
+        "contact_number": "01730708312",
+        "email": "mgrashuliabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Ashulia Bazar",
+            "thana": "Ashulia",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4106",
+        "branch_name": "BADDA",
+        "contact_number": "02-9897642",
+        "email": "mgrbadda@krishibank.org.bd",
+        "address": {
+            "post_office": "Badda",
+            "thana": "Badda",
+            "district": "Dhaka"
+        }
+    },
+             {
+        "branch_id": "4120",
+        "branch_name": "BALIA",
+        "contact_number": "01730708314",
+        "email": "mgrbalia@krishibank.org.bd",
+        "address": {
+            "post_office": "Balia",
+            "thana": "Dhamri",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4110",
+        "branch_name": "BANDURAHAT",
+        "contact_number": "07130708316",
+        "email": "mgrbandurahat@krishibank.org.bd",
+        "address": {
+            "post_office": "Bandurahat",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4119",
+        "branch_name": "BELISHWAR",
+        "contact_number": "01730708317",
+        "email": "mgrbelishwar@krishibank.org.bd",
+        "address": {
+            "post_office": "Belishwar",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4117",
+        "branch_name": "CHAWK BAZAR",
+        "contact_number": "02-7316588",
+        "email": "mgrchakbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Chakbazar",
+            "thana": "Lalbag",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4125",
+        "branch_name": "DEMRA BAZAR",
+        "contact_number": "02-7502202, 01730708319",
+        "email": "mgrdemrabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Demra Bazar",
+            "thana": "Demra",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4118",
+        "branch_name": "DHAMRAI",
+        "contact_number": "27730238, 01730708320",
+        "email": "mgrdhamrai@krishibank.org.bd",
+        "address": {
+            "post_office": "Dhamrai",
+            "district": "Dhaka"
+        }
+    }
+         ],
        "Chittagong": [
   {
     "branch_id": "3308",
