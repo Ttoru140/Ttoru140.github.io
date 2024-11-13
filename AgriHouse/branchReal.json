@@ -231,6 +231,114 @@
             "district": "Dhaka"
         }
     },
+             {
+        "branch_id": "4113",
+        "branch_name": "DOHAR",
+        "contact_number": "01730708321, 0622356039",
+        "email": "mgrdohar@krishibank.org.bd",
+        "address": {
+            "post_office": "Joypara",
+            "thana": "Dohar",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4103",
+        "branch_name": "FARASHGONJ",
+        "contact_number": "027118987",
+        "email": "mgrfarashgonj@krishibank.org.bd",
+        "address": {
+            "post_office": "Dhaka Sadar",
+            "thana": "Sutrapur",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4126",
+        "branch_name": "HAZRATPUR",
+        "contact_number": "01730708323",
+        "email": "mgrhazratpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Itavara",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4107",
+        "branch_name": "JURAIN",
+        "contact_number": "02-7441284, 01730708324",
+        "email": "mgrjurain@krishibank.org.bd",
+        "address": {
+            "post_office": "Faridabad",
+            "thana": "Shampur",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4122",
+        "branch_name": "KAMRANGIRCHAR",
+        "contact_number": "29670037, 01730708325",
+        "email": "mgrkamrangirchar@krishibank.org.bd",
+        "address": {
+            "post_office": "Ashrafabad",
+            "thana": "Kamrangirchar",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4108",
+        "branch_name": "KERANIGONJ",
+        "contact_number": "02-7770898, 01730708327",
+        "email": "mgrkeranigonj@krishibank.org.bd",
+        "address": {
+            "post_office": "Zinzira",
+            "thana": "Keranigonj",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4102",
+        "branch_name": "KHAMAR BARI",
+        "contact_number": "029118297, 25127168, 01730708328",
+        "email": "mgrkhamarbari@krishibank.org.bd",
+        "address": {
+            "post_office": "Tejgaon",
+            "thana": "Tejgaon",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4112",
+        "branch_name": "KOMARGONJ",
+        "contact_number": "01730708329",
+        "email": "mgrkomorgonj@krishibank.org.bd",
+        "address": {
+            "post_office": "Komargonj",
+            "district": "Dhaka"
+        }
+    },
+    {
+        "branch_id": "4001",
+        "branch_name": "LOCAL PRINCIPAL OFFICE",
+        "contact_number": "02-9552996, 02711964, 01730708330",
+        "email": "dgmlpo@krishibank.org.bd",
+        "address": {
+            "post_office": "83-85, Motijheel C/A",
+            "district": "Dhaka",
+            "postal_code": "1000"
+        }
+    },
+    {
+        "branch_id": "4114",
+        "branch_name": "MIRPUR",
+        "contact_number": "029015196, 0173070833",
+        "email": "mgrmirpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Mirpur",
+            "thana": "Mirpur",
+            "district": "Dhaka"
+        }
+    },
     {
         "branch_id": "4116",
         "branch_name": "BANANI CORPORATE",
@@ -328,6 +436,150 @@
         }
     }
          ],
+       "Faridpur": [
+    {
+        "branch_id": "0809",
+        "branch_name": "ALFADANGA",
+        "contact_number": "01558382909, 632256607",
+        "email": "mgralfadanga@krishibank.org.bd",
+        "address": {
+            "post_office": "Alfadanga",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0822",
+        "branch_name": "BABUR CHAR",
+        "contact_number": "01730708342",
+        "email": "mgrbaburchar@krishibank.org.bd",
+        "address": {
+            "post_office": "Baburchar",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0823",
+        "branch_name": "BAGAT",
+        "contact_number": "01730708343",
+        "email": "mgrbagat@krishibank.org.bd",
+        "address": {
+            "post_office": "Bagat",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0804",
+        "branch_name": "BAITUL AMAN",
+        "contact_number": "01730708344",
+        "email": "mgrbaitulaman@krishibank.org.bd",
+        "address": {
+            "post_office": "Baitul Aman",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0819",
+        "branch_name": "BAKHUNDA BAZAR",
+        "contact_number": "01709643195",
+        "email": "mgrbakhundabazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Kotoali",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0810",
+        "branch_name": "BHANGA",
+        "contact_number": "01730708346",
+        "email": "mgrbhanga@krishibank.org.bd",
+        "address": {
+            "post_office": "Bhanga",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0820",
+        "branch_name": "BILGOBINDAPUR",
+        "contact_number": "01730708347",
+        "email": "mgrbilgobindapur@krishibank.org.bd",
+        "address": {
+            "post_office": "Bilgobindapur",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0807",
+        "branch_name": "BOALMARI",
+        "contact_number": "632456112, 01712244702",
+        "email": "mgrboalmari@krishibank.org.bd",
+        "address": {
+            "post_office": "Boalmari",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0821",
+        "branch_name": "CHANDHAT",
+        "contact_number": "01730708349",
+        "email": "mgrchandhat@krishibank.org.bd",
+        "address": {
+            "post_office": "Chandhat",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0805",
+        "branch_name": "CHAR BHADRASON",
+        "contact_number": "01730708350",
+        "email": "mgrcharbhadrasan@krishibank.org.bd",
+        "address": {
+            "post_office": "Char Bhadrason",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0801",
+        "branch_name": "FARIDPUR",
+        "contact_number": "63162780, 01680797842",
+        "email": "mgrfaridpur@krishibank.org.bd",
+        "address": {
+            "post_office": "Faridpur",
+            "thana": "Faridpur",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0826",
+        "branch_name": "GOPALPUR BAZAR",
+        "contact_number": "01730708352",
+        "email": "mgrgopalpurbazarfar@krishibank.org.bd",
+        "address": {
+            "post_office": "Gopalpur Bazar",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0806",
+        "branch_name": "HAJIGANJ",
+        "contact_number": "01730708353",
+        "email": "mgrhajigonjbazar@krishibank.org.bd",
+        "address": {
+            "post_office": "Hajiganj",
+            "district": "Faridpur"
+        }
+    },
+    {
+        "branch_id": "0816",
+        "branch_name": "HATKRISHNOPUR",
+        "contact_number": "01730708354",
+        "email": "mgrhatkrishnapur@krishibank.org.bd",
+        "address": {
+            "post_office": "Hatkrishnopur",
+            "district": "Faridpur"
+        }
+    }
+],
+
        "Chittagong": [
   {
     "branch_id": "3308",
