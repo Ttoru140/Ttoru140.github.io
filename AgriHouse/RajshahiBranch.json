@@ -2,6 +2,13 @@
   "zones": {
     "Rajshahi": [
       {
+        "branchName": "Central Accounts Department-1 (CAD-1)",
+        "address": "272, Banolata C/A Airport Road, Head Office, Rajshahi",
+        "telephone": "+88-0247-860532",
+        "email": "dgmcad1@rakub.org.bd",
+        "type": "urban"
+      },
+      {
         "branchName": "Aloknagor",
         "address": "P.O. Goalkandi, Upazilla Bagmara, Rajshahi",
         "telephone": "",
@@ -121,6 +128,448 @@
         "type": "rural"
       }
     ],
+    "Naogaon": [
+      {
+        "branchName": "Atrai",
+        "address": "P.O. Ahsanganj, P.S. Atrai, Naogaon",
+        "telephone": "+88-07422-71012",
+        "email": "atrai@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Betgari",
+        "address": "P.O. Ghosgram, P.S. Raninagor, Naogaon",
+        "telephone": "",
+        "email": "betgari@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dubalhati",
+        "address": "P.O. Dubalhati, P.S. Sador, Naogaon",
+        "telephone": "",
+        "email": "dubalhati@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Jotbazar",
+        "address": "P.O. Jotbazar, P.S. Manda, Naogaon",
+        "telephone": "",
+        "email": "jotbazar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kirtipur",
+        "address": "P.O. Kirtipur, P.S. Sador, Naogaon",
+        "telephone": "",
+        "email": "kirtipur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kolihar",
+        "address": "Napithpara, Kashopara, Manda, Naogaon",
+        "telephone": "",
+        "email": "kolihar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Naogaon",
+        "address": "Bazar Road, Naogaon",
+        "telephone": "+88-0741-62451",
+        "email": "naogaon@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Noduli Bazar",
+        "address": "P.O. Patishar, P.S. Atrai, Naogaon",
+        "telephone": "",
+        "email": "nowdulibazar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Paharpur",
+        "address": "P.S. Sador, Naogaon",
+        "telephone": "",
+        "email": "paharpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Prasadpur",
+        "address": "P.O. Prasadpur, P.S. Manda, Naogaon",
+        "telephone": "+88-07425-62003",
+        "email": "proshadpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Raninagor",
+        "address": "P.O. & P.S. Raninagor, Naogaon",
+        "telephone": "+88-07433-56011",
+        "email": "raninagor@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sabaihat",
+        "address": "P.O. Tetulia, P.S. Manda, Naogaon",
+        "telephone": "",
+        "email": "sabaihat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Samasparahat",
+        "address": "P.O. Bhangajangal, P.S. Atrai, Naogaon",
+        "telephone": "",
+        "email": "samasparahat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Satihat",
+        "address": "P.O. Satihat, P.S. Manda, Naogaon",
+        "telephone": "",
+        "email": "satihat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Shailgachi",
+        "address": "P.O. Shailgachi, P.S. Sador, Naogaon",
+        "telephone": "",
+        "email": "shailgachi@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+    "Bogra": [
+      {
+        "branchName": "Aliarhat",
+        "address": "P.O. Aliarhat, P.S. Shibganj, Bogra",
+        "telephone": "",
+        "email": "aliarhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bhelabari Jorgacha",
+        "address": "P.O. Bhelabari Jorgacha, P.S. Shariakandi, Bogra",
+        "telephone": "",
+        "email": "bbjorgacha@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bogra",
+        "address": "Sarifuddin Super Market, PO & Dist. Bogra",
+        "telephone": "+88-051-66287",
+        "email": "bogra@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Boraihat",
+        "address": "P.O. Baraihat, P.S. Shibgonj, Bogra",
+        "telephone": "",
+        "email": "boraihat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Daridah Maidanhata",
+        "address": "P.O. Daridah, P.S. Shibgonj, Bogra",
+        "telephone": "",
+        "email": "ddmaidanhata@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Durgahata",
+        "address": "P.O. Durgahata, P.S. Gabtoli, Bogra",
+        "telephone": "",
+        "email": "durgahata@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gabtali",
+        "address": "P.O. & P.S. Gabtali, Bogra",
+        "telephone": "+88-05025-75007",
+        "email": "gabtoli@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Jorgacha",
+        "address": "P.O. & P.S. Sonatola, Bogra",
+        "telephone": "",
+        "email": "jorgacha@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Langluhat",
+        "address": "P.O. Langluhat, P.S. Gabtoli, Bogra",
+        "telephone": "",
+        "email": "langluhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Pallimangolhat",
+        "address": "P.O. Pallimangolhat, P.S. Sador, Bogra",
+        "telephone": "",
+        "email": "pallimangolhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Rahbal",
+        "address": "P.O. Deuli, P.S. Shibgonj, Bogra",
+        "telephone": "",
+        "email": "rahbal@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ramesharpur",
+        "address": "P.O. Ramesharpur, P.S. Gabtoli, Bogra",
+        "telephone": "",
+        "email": "ramesharpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sariakandi",
+        "address": "P.O. & P.S. Sariakandi, Bogra",
+        "telephone": "+88-05028-56211",
+        "email": "sariakandi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sehalihat",
+        "address": "P.O. Sehalihat, P.S. Shibgonj, Bogra",
+        "telephone": "",
+        "email": "sehalihat@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+    "Dinajpur": [
+      {
+        "branchName": "Birganj",
+        "address": "P.O. & P.S. Birganj, Dinajpur",
+        "telephone": "+88-05323-72211",
+        "email": "birganj@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Birol",
+        "address": "P.O. & P.S. Birol, Dinajpur",
+        "telephone": "+88-05325-56006",
+        "email": "birol@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Boardhat",
+        "address": "Boardhat, PO. Birol PS Birol, Dinajpur",
+        "telephone": "",
+        "email": "boardhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Buliabazar",
+        "address": "Bogderhat, P.O. & P.S. Kaharol, Dinajpur",
+        "telephone": "",
+        "email": "buliabazar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chirirbandar",
+        "address": "P.O. & P.S. Chirirbandar, Dinajpur",
+        "telephone": "+88-05326-56105",
+        "email": "chirirbandar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dhukurjharihat",
+        "address": "P.O. Baznahar, P.S. Birol, Dinajpur",
+        "telephone": "",
+        "email": "dhukurjharihat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dinajpur",
+        "address": "Maldahapatti, PO Dinajpur, P.S. Kotwali, Dinajpur",
+        "telephone": "+88-0531-63202",
+        "email": "dinajpur@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Kaharol",
+        "address": "Maharajgonj, P.O. & P.S. Kaharol, Dinajpur",
+        "telephone": "+88-05335-56007",
+        "email": "kaharol@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kaliagonj",
+        "address": "P.O. Saranjai Palashbari, P.S. Birol, Dinajpur",
+        "telephone": "",
+        "email": "kaliagonj-din-n@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Khansama",
+        "address": "P.O. & P.S. Khansama, Dinajpur",
+        "telephone": "+88-05332-56005",
+        "email": "khansama@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kutubdanga",
+        "address": "P.O. Mostofapur, P.S. Chirirbandor, Dinajpur",
+        "telephone": "",
+        "email": "kutubdanga@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Mangalpur",
+        "address": "P.O. Mangalpur, P.S. Birol, Dinajpur",
+        "telephone": "",
+        "email": "mangalpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ramdubirhat",
+        "address": "P.O. Ramdubirhat, P.S. Sador, Dinajpur",
+        "telephone": "",
+        "email": "ramdubirhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ranirbandar",
+        "address": "P.O. Ranirbandar & P.S. Chirirbandar, Dinajpur",
+        "telephone": "",
+        "email": "ranirbandar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Setabgonj",
+        "address": "P.O. & P.S. Bochagonj, Dinajpur",
+        "telephone": "+88-05325-70001",
+        "email": "setabgonj@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Shibrampur",
+        "address": "P.O. Muraripur, P.S. Birgonj, Dinajpur",
+        "telephone": "",
+        "email": "shibrampur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sultanpur",
+        "address": "P.O. Sultanpur, P.S. Bochagonj, Dinajpur",
+        "telephone": "",
+        "email": "sultanpur@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+    "ChapaiNawabganj": [
+      {
+        "branchName": "Amnura",
+        "address": "PO Amnura, Uz & Dist. Chapai Nawabganj",
+        "telephone": "",
+        "email": "amnura@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Anupnagar",
+        "address": "PO Basudevpur, Uz & Dist. Chapai Nawabganj",
+        "telephone": "",
+        "email": "anupnagar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bholahat",
+        "address": "P.O. Bholahat, Upazilla Bholahat, Chapai Nawabganj",
+        "telephone": "+88-07822-5610",
+        "email": "bholahat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chaitannapur",
+        "address": "P.O. Dhainnagar, Upazilla Shibgonj, Chapai Nawabganj",
+        "telephone": "",
+        "email": "chaitannapur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chapai Nawabganj",
+        "address": "P.O. Uz & Dist. Chapai Nawabganj",
+        "telephone": "+88-0781-52361",
+        "email": "chapainawabganj@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Chhatrajitpur",
+        "address": "P.O. Chhatrajitpur, Uz Shibgonj, Dist. Chapai Nawabganj",
+        "telephone": "",
+        "email": "chhatrajitpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ghorapakhia",
+        "address": "P.O. Kalinagar, Uz Shibgonj, Dist. Chapai Nawabganj",
+        "telephone": "",
+        "email": "ghorapakhia@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gomostapur",
+        "address": "P.O. Gomostapur, Uz Gomostapur, Dist. Chapai Nawabganj",
+        "telephone": "",
+        "email": "gomostapur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Jambaria",
+        "address": "P.O. Barogachihat, Upazilla Volahat, Chapai Nawabganj",
+        "telephone": "",
+        "email": "jambaria@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Nachol",
+        "address": "P.O. Nachol, Upazilla Nachol, Chapai Nawabganj",
+        "telephone": "+88-07824-56012",
+        "email": "nachole@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Nejampur",
+        "address": "P.O. Hatbakail, Upazilla Nachol, Chapai Nawabganj",
+        "telephone": "",
+        "email": "nejampur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Rahanpur",
+        "address": "P.O. Rahanpur, Upazilla Gomostapur, Chapai Nawabganj",
+        "telephone": "+88-07823-74044",
+        "email": "rohanpur@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Shibganj",
+        "address": "P.O. Shibganj, Upazilla Shibgonj, Chapai Nawabganj",
+        "telephone": "+88-07825-75019",
+        "email": "shibganj@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Shyampur",
+        "address": "P.O. Kanshat, Upazilla Shibgonj, Chapai Nawabganj",
+        "telephone": "",
+        "email": "shyampur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sona Masjid",
+        "address": "Azmotpur, Upazilla Shibgonj, Dist. Chapai Nawabganj",
+        "telephone": "",
+        "email": "sonamasjid@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Sonaichandihat",
+        "address": "P.O. Sonaichandihat, Upazilla Nachol, Chapai Nawabganj",
+        "telephone": "",
+        "email": "sonaichandihat@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
     "Natore": [
       {
         "branchName": "Abdulpur",
@@ -191,6 +640,399 @@
         "telephone": "+88-07724-74044",
         "email": "gurudaspur@rakub.org.bd",
         "type": "urban"
+      }
+    ],
+    "Rangpur": [
+      {
+        "branchName": "Badargonj",
+        "address": "Badargonj, Rangpur",
+        "telephone": "+88-05222-56235",
+        "email": "badarganj@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Damodarpur",
+        "address": "Taragonj, Rangpur",
+        "telephone": "",
+        "email": "damodarpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dhantola",
+        "address": "Dhantola Branch, P.O-Dhantola, Rangpur",
+        "telephone": "",
+        "email": "dhantola@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gangachara",
+        "address": "Gangachara, Rangpur",
+        "telephone": "+88-05223-56023",
+        "email": "gangachara@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ikrachali",
+        "address": "Taragonj, Rangpur",
+        "telephone": "",
+        "email": "ikorchali@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kaunia",
+        "address": "Kaunia, Rangpur",
+        "telephone": "+88-05224-56013",
+        "email": "kaunia@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Modhupur",
+        "address": "Badargonj, Rangpur",
+        "telephone": "",
+        "email": "modhupur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Nagerhat",
+        "address": "Badargonj, Rangpur",
+        "telephone": "",
+        "email": "nagerhat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Parshuram",
+        "address": "Porshuram, Rangpur",
+        "telephone": "",
+        "email": "parshuram@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Rangpur",
+        "address": "Rangpur",
+        "telephone": "+88-0521-62376",
+        "email": "rangpur@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Saddapuskarini",
+        "address": "Saddapuskarini, Rangpur",
+        "telephone": "",
+        "email": "saddapuskarini@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Taragonj",
+        "address": "Taragonj, Rangpur",
+        "telephone": "+88-05228-56019",
+        "email": "taragonj@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Taxerhat",
+        "address": "Taxerhat, Rangpur",
+        "telephone": "",
+        "email": "taxerhat@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+    "Sirajgonj": [
+      {
+        "branchName": "Belkuchi",
+        "address": "P.O. Belkuchi, P.S. Belkuchi, Sirajgonj",
+        "telephone": "+88-07522-56450",
+        "email": "belkuchi@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Bhadraghat",
+        "address": "P.O. Bhadraghat, P.S. Kamarkanda, Sirajgonj",
+        "telephone": "+88-0751-64486",
+        "email": "bhadraghat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chalitadanga",
+        "address": "P.O. Chalitadanga, P.S. Kazipur, Sirajgonj",
+        "telephone": "",
+        "email": "chalitadanga@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chongachahat",
+        "address": "P.O. Chongacha, Sirajgonj",
+        "telephone": "",
+        "email": "chongachahat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chowhali",
+        "address": "P.O. Khaskaulia, P.S. Chowhali, Sirajgonj",
+        "telephone": "+88-0751-63822/23",
+        "email": "chowhali@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gandhail Bazar",
+        "address": "P.O. Gabdhail, P.S. Kazipur, Sirajgonj",
+        "telephone": "",
+        "email": "gandhailbazar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Ghurka",
+        "address": "P.O. Ghurka, P.S. Raigonj, Sirajgonj",
+        "telephone": "",
+        "email": "ghurka@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Kamarkhand",
+        "address": "P.O. Bodijamtoli, P.S. Kamarkand, Sirajgonj",
+        "telephone": "+88-07524-56007",
+        "email": "kamarkhand@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Khokshabari",
+        "address": "P.O. Khokshabari, Sirajgonj",
+        "telephone": "",
+        "email": "khokshabari@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Meghai",
+        "address": "P.O. Meghai, P.S. Kazipur, Sirajgonj",
+        "telephone": "+88-07525-56295",
+        "email": "meghai@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Moshipur",
+        "address": "P.O. Kayampur, P.S. Shahzadpur, Sirajgonj",
+        "telephone": "",
+        "email": "kashinathpur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Newargacha",
+        "address": "P.O. & P.O. Ullapara, Sirajgonj",
+        "telephone": "+88-07529-56340",
+        "email": "newargacha@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Panchakushi",
+        "address": "P.O. Panchakushi, P.S. Ullapara, Sirajgonj",
+        "telephone": "",
+        "email": "panchakushi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Purnimahat",
+        "address": "P.O. Puronimeghat, P.S. Ullapara, Sirajgonj",
+        "telephone": "+88-07529-56180",
+        "email": "purnimahat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Raiganj",
+        "address": "P.O. Dhangara, P.S. Raigonj, Sirajgonj",
+        "telephone": "+88-07526-56117",
+        "email": "raiganj-siraj@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+    "Joypurhat": [
+      {
+        "branchName": "Akkelpur",
+        "address": "P.O. P.S. Akkelpur, Joypurhat",
+        "telephone": "+88-05722-62479",
+        "email": "akkelpur@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Atapur",
+        "address": "P.O. Atapur, P.S. Panchbibi, Joypurhat",
+        "telephone": "",
+        "email": "atapur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bagzana",
+        "address": "P.O. Bagzana, P.S. Panchbibi, Joypurhat",
+        "telephone": "",
+        "email": "bagzana@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Battali",
+        "address": "P.O. Baliadanga, P.S. Khetlal, Joypurhat",
+        "telephone": "+88-0571-62205",
+        "email": "battali@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chatinali",
+        "address": "P.O. Chatinali, P.S. Panchbibi, Joypurhat",
+        "telephone": "",
+        "email": "chatinali@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dharanji",
+        "address": "P.O. Dharanji, P.S. Panchbibi, Joypurhat",
+        "telephone": "",
+        "email": "dharanji@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dogachi",
+        "address": "P.O. Bagzana, P.S. Kalai, Joypurhat",
+        "telephone": "",
+        "email": "dogachi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Joypurhat",
+        "address": "Joypurhat, Sador, Joypurhat",
+        "telephone": "+88-0571-62342",
+        "email": "joypurhat@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Kalai",
+        "address": "P.O. P.S. Kalai, Joypurhat",
+        "telephone": "+88-05725-56004",
+        "email": "kalai@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Khetlal",
+        "address": "P.O. P.S. Khetlal, Joypurhat",
+        "telephone": "",
+        "email": "khetlal@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Madhainagor",
+        "address": "P.O. Amdai, P.S. Sador, Joypurhat",
+        "telephone": "",
+        "email": "madhainagor@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Moslemgonj",
+        "address": "P.O. Moshlemgonj, Ps Kalai, Joypurhat",
+        "telephone": "",
+        "email": "moslemgonj@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Panchbibi",
+        "address": "P.O. P.S. Panchbibi, Joypurhat",
+        "telephone": "+88-0571-75020",
+        "email": "panchbibi@rakub.org.bd",
+        "type": "urban"
+      },
+      {
+        "branchName": "Puronapail",
+        "address": "P.O. Puronapail, P.S. Sador, Joypurhat",
+        "telephone": "+88-0571-63023",
+        "email": "puronapail@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Raikali",
+        "address": "P.O. Raikali, P.S. Akkelpur, Joypurhat",
+        "telephone": "",
+        "email": "raikali@rakub.org.bd",
+        "type": "rural"
+      }
+    ],
+     "Thakurgaon": [
+      {
+        "branchName": "Awliapur",
+        "address": "P.O. Kachubari, Upazilla Sador, Thakurgaon",
+        "telephone": "",
+        "email": "awliapur@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Baliadangi",
+        "address": "P.O. Baliadangi, Upazilla Baliadangi, Thakurgaon",
+        "telephone": "+88-05622-56008",
+        "email": "baliadangi@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Begunbari",
+        "address": "P.O. Begunbari, Upazilla Sador, Thakurgaon",
+        "telephone": "",
+        "email": "begunbari@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bhabnagonj",
+        "address": "P.O Bhadua, P.S Pirganj, Thakurgaon",
+        "telephone": "",
+        "email": "bhabnagonj@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bhelazan",
+        "address": "P.O. Bhelazan, Upazilla Sador, Thakurgaon",
+        "telephone": "",
+        "email": "bhelazan@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Bhomradaha",
+        "address": "P.O. Bhomradaha, Upazilla Pirgonj, Thakurgaon",
+        "telephone": "",
+        "email": "bhomradaha@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Borokhochabari",
+        "address": "P.O. Kohorpara, Upazilla & Dist. Thakurgaon",
+        "telephone": "",
+        "email": "nargun@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Charol",
+        "address": "P.O. Lahirihat, Upazilla Baliadangi, Thakurgaon",
+        "telephone": "",
+        "email": "charol@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Chourangi Bazar",
+        "address": "P.O. Pirganj, Upazilla Haripur, Thakurgaon",
+        "telephone": "",
+        "email": "chourangibazar@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Dharmagarh",
+        "address": "P.O. Muzahidabad, Upazilla Ranishainkal, Thakurgaon",
+        "telephone": "",
+        "email": "dharmagarh@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Farabarihat",
+        "address": "P.O. Farabari, Upazilla Sador, Thakurgaon",
+        "telephone": "",
+        "email": "farabarihat@rakub.org.bd",
+        "type": "rural"
+      },
+      {
+        "branchName": "Gogorehat",
+        "address": "P.O. Gogore, Upazilla Ranisankail, Thakurgaon",
+        "telephone": "",
+        "email": "gogorehat@rakub.org.bd",
+        "type": "rural"
       }
     ],
     "Pabna": [
